@@ -1,0 +1,75 @@
+#List of stakeholders, names, images, alt tags, etc. 
+
+stakeholders:
+  - name: Career Navigators
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa43_Frame%2012.svg
+    icon-alt: An icon of a navigation path
+    url: /career-navigators
+    action-areas: 
+      - shifting
+  - name: Credentialing Organizations
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4f_Frame%205.svg
+    icon-alt: An icon of a certificate
+    url: credentialing-organizations
+    action-areas:
+      - defining
+      - gathering
+      - shifting
+  - name: Data Standards Bodies
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa56_Frame%207.svg
+    icon-alt: An icon of a globe with connections and tech symbols
+    url: data-standards-bodies
+    action-areas: 
+  - name: Employers
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa52_Frame%204.svg
+    icon-alt: An icon of a person in front of a business
+    url: /employers
+    action-areas: 
+      - defining
+      - building
+      - shifting
+  - name: Funders
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4b_Frame%2010.svg
+    icon-alt: An icon of a coin 
+    url: /funders
+    action-area:      
+  - name: Governance
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4a_Frame%2011.svg
+    icon-alt: An icon of two people in front of a government building
+    url: /governance 
+    action-areas: 
+      - defining
+      - building
+      - gathering
+      - shifting
+  - name: HR Systems
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa58_Frame%209.svg
+    icon-alt: An icon of two people and a gear
+    url: /hr-systems
+    action-areas: 
+      - defining
+      - building
+      - gathering
+      - shifting
+  - name: Learners & Earners
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5d_Frame%203.svg
+    icon-alt: An icon of two people using a laptop
+    url: /learners-earners
+    action-areas: 
+      - defining
+      - gathering
+      - shifting
+  - name: LER Solution Providers
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa53_Frame%206.svg
+    icon-alt: An icon of a lightbulb
+    url: /solution-providers
+    action-areas:
+      - defining
+  - name: Supporting Systems
+    icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa48_Frame%208.svg
+    icon-alt: An icon of a heart
+    url: supporting-systems
+    action-areas: 
+      - gathering
+      - shifting
+ 

@@ -1,0 +1,9 @@
+#list of shared glossary terms
+
+terms:
+  - term: Holder
+    definition: A role an entity might perform by possessing one or more verifiable credentials and generating presentations from them. A holder is usually, but not always, a subject of the verifiable credentials they are holding. Holders store their credentials in credential repositories.  (W3C def)
+  - term: Issuing/Issuer
+    definition: A role an entity can perform by asserting claims about one or more subjects, creating a verifiable credential from these claims, and transmitting the verifiable credential to a holder. (W3C def)
+
+    
