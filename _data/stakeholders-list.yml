@@ -1,12 +1,33 @@
 #List of stakeholders, names, images, alt tags, etc. 
+#Maybe merge this with pagelist. Don't need both really
 
 stakeholders:
   - name: Career Navigators
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa43_Frame%2012.svg
     icon-alt: An icon of a navigation path
-    url: /career-navigators
+    url: career-navigators
     action-areas: 
       - shifting
+    definition: Individuals or organizations that provide guidance and support to individuals resulting in economic mobility
+    examples: Workforce boards, nonprofit organizations, advocacy, and workforce development organizations, career and guidance counselors, academic advisors, college access networks, and professional development coaches
+    sections:
+      - title: Developing
+        subheader: Researching & creating the LER solutions
+        bullets:
+          - Work across the career navigation spectrum to contribute a workforce development perspective to R&D, including the perspective of workers directly.
+      - title: Issuing
+        subheader: Issuing verifiable LERs to learners & earners
+        bullets:
+          - Provide outreach and education for users, support learners and earners understanding of their credential data.
+      - title: Using
+        subheader: Learners and earners using LERs to discover & access opportunities
+        bullets:
+          - Identify and implement effective tools and supports for learners and earners to discover and apply for jobs and opportunities.
+      - title: Adopting
+        subheader: Integrating systems & behaviors that accept LERs for opportunities
+        bullets:
+          - Provide information and support to learners and earners on how to take advantage of skills-based career paths.
+          - Offer wraparound career support and mentorship.
   - name: Credentialing Organizations
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4f_Frame%205.svg
     icon-alt: An icon of a certificate
@@ -15,56 +36,76 @@ stakeholders:
       - defining
       - gathering
       - shifting
+    definition: Entities including institutions, organizations, individuals, or training providers that provide evidence of skills or achievements for a learner. These include but are not limited to primary, secondary, post-secondary, or tertiary education providers, industry credentialing organizations, unions, employers (small, medium, and large enterprise), governments, licensing boards, private or community training providers, online education providers, and workplace training or education programs. Within the LER Ecosystem, an entity that provides a credential can be referred to as an issuer
+    examples: Colleges and universities, union apprenticeships, industry association for manufacturing or early child care, state licensure associations, boards of nursing, education, and cosmetology etc., NGOs or non-profits, online learning providers
+    sections:
+      - title: Developing
+        subheader: Researching & creating the LER solutions
+        bullets:
   - name: Data Standards Bodies
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa56_Frame%207.svg
     icon-alt: An icon of a globe with connections and tech symbols
     url: data-standards-bodies
     action-areas: 
+    definition: Technical communities and organizations that develop and put forth specifications and standards to protect learner data and promote interoperability
+    examples: W3C, 1EdTech, DIF, HR Open, Credential Engine
   - name: Employers
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa52_Frame%204.svg
     icon-alt: An icon of a person in front of a business
-    url: /employers
+    url: employers
     action-areas: 
       - defining
       - building
       - shifting
+    definition: An individual, company or organization that pays for work. 
+    examples: Large, medium and small enterprise businesses or companies, government or other agencies, non-profits or individuals.
   - name: Funders
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4b_Frame%2010.svg
     icon-alt: An icon of a coin 
-    url: /funders
-    action-area:      
+    url: funders
+    action-area:   
+    definition: Those who aim to financially support activities and initiatives pertaining to LERs   
+    examples: Foundations, corporate sponsors, and philanthropic individuals and organizations 
   - name: Governance
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4a_Frame%2011.svg
     icon-alt: An icon of two people in front of a government building
-    url: /governance 
+    url: governance 
     action-areas: 
       - defining
       - building
       - gathering
       - shifting
+    definition: entities who define and implement policies and frameworks around education and workforce across institutions to support credentialing and workforce alignment that promote advancement and promote economic and academic advancement for their constituencies; non-governmental entities overseeing accreditation; communities, consortia and networks that work to align LER workstreams  
+    examples: Boards, ministries, and departments of education and labor; legislators and champions, accreditation bodies, issuer registries, regulatingaccreditation organizations. 
   - name: HR Systems
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa58_Frame%209.svg
     icon-alt: An icon of two people and a gear
-    url: /hr-systems
+    url: hr-systems
     action-areas: 
       - defining
       - building
       - gathering
       - shifting
+    definition: Applications and tools designed and sold to organizations whose Human Resource professionals manage and track employee recruitment, onboarding and performance. 
+    examples: Human Resources Information Systems (HRIS), Applicant Tracking Systemsoftware (ATS)
   - name: Learners & Earners
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5d_Frame%203.svg
     icon-alt: An icon of two people using a laptop
-    url: /learners-earners
+    url: learners-earners
     action-areas: 
       - defining
       - gathering
       - shifting
+    definition: Individuals of any age engaging in learning and work through traditional or non-traditional means
+    examples: College or university students, professionals learning on the job or through training programs, individuals pursuing skills-building life experiences
   - name: LER Solution Providers
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa53_Frame%206.svg
     icon-alt: An icon of a lightbulb
-    url: /solution-providers
+    url: solution-providers
     action-areas:
       - defining
+    definition: Businesses and organizations, vendors and non-profit organizations which develop technology solutions, tools, and infrastructure for issuing, storing, sharing, or verifying LERs. 
+    examples: Web-hosted badging platforms, verifiable credential infrastructure, microservices, and issuer tool providers, digital wallet providers, software developers, identity solution providers 
   - name: Supporting Systems
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa48_Frame%208.svg
     icon-alt: An icon of a heart
@@ -72,4 +113,5 @@ stakeholders:
     action-areas: 
       - gathering
       - shifting
- 
+    definition: Entities or networks promoting livelihoods and economic mobility
+    examples: Research and advocacy groups, think tanks and community organizations, intermediaries and implementation partners 
