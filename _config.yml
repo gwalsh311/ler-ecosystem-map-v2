@@ -38,7 +38,7 @@ plugins:
 collections:
  stakeholders:
   output: true
-  permalink: /stakeholder/:basename
+  permalink: /stakeholder/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
