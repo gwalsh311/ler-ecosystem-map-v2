@@ -38,10 +38,49 @@ stakeholders:
       - shifting
     definition: Entities including institutions, organizations, individuals, or training providers that provide evidence of skills or achievements for a learner. These include but are not limited to primary, secondary, post-secondary, or tertiary education providers, industry credentialing organizations, unions, employers (small, medium, and large enterprise), governments, licensing boards, private or community training providers, online education providers, and workplace training or education programs. Within the LER Ecosystem, an entity that provides a credential can be referred to as an issuer
     examples: Colleges and universities, union apprenticeships, industry association for manufacturing or early child care, state licensure associations, boards of nursing, education, and cosmetology etc., NGOs or non-profits, online learning providers
+    business-case:
+      - title: Cost efficiency
+        description: cost savings from the improved outcomes of institutional efficiency in admissions and learner mobility
+      - title: Potential for enrollment growth
+        description: expand continuing education programs in particular to support re- and up-skilling.
+      - title: Admissions
+        description: tap into a wider potential student pool with better ability to provide personalized supports based on applicants’ skills and competencies
+    social-case:
+      - title: Serving learners better
+        description: By recognizing a wide range of skills and competencies, learners will be able to find and apply for good jobs, thus driving results in accessing opportunities and higher earning potential
+      - title: Leadership as a learner-centered institution
+        description: open up access to quality learning opportunities to more learners by removing artificial barriers to entry and increasing access to economic mobility 
     sections:
       - title: Developing
         subheader: Researching & creating the LER solutions
         bullets:
+          - Partner in research and pilots — to better understand LER ROI for institutions and their learners, curriculum development systems, etc.
+          - Align curriculum and learning outcomes to learner and employer needs.
+          - Engage stakeholders across the education/training institution, including leadership, faculty, student affairs, registrars, continuing education, career counselors, etc.
+          - Ensure participation of a broad range of institutions, in particular including community colleges, in pilots.
+      - title: Issuing
+        subheader: Issuing verifiable LERs to learners & earners
+        bullets:
+          - Issue digital versions of academic credentials. 
+          - Explore a competency-based approach to designing curriculum, learning, and assessment. 
+          - Develop policies and practices to validate and document skills, use skills in credit for prior learning, admissions, and audits for program completion.
+          - Define governance and infrastructure to ensure quality assurance of issued credentials (influenced by industry standards, accreditation bodies, local employers and educators).
+          - Work with policymakers (including input from Commonwealth countries and EU) on qualifications frameworks for transparent learning progressions.
+          - Ensure that credential and skills data are issued and used in an interoperable manner.
+      - title: Using
+        subheader: Learners and earners using LERs to discover & access opportunities
+        bullets:
+          - Undertake change management including -  training staff on LERs.
+          - Implement curriculum with skills and competency-based approaches to assessment for publishing to LER.
+          - Use performance-based, criterion referenced, authentic assessments to validate mastery of skills.
+      - title: Adopting
+        subheader: Integrating systems & behaviors that accept LERs for opportunities
+        bullets:
+          - Include support for LERs in  admissions systems and decision making processes.
+          - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services.
+          - Expand prior learning recognition to offer credits for  experiences in other settings and institutions.
+          - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum.
+          - Develop 'evidence' supporting skill/competency acquisition that has predictive validity.
   - name: Data Standards Bodies
     icon: https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa56_Frame%207.svg
     icon-alt: An icon of a globe with connections and tech symbols

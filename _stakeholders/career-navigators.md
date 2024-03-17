@@ -18,7 +18,6 @@ title: LER Ecosystem Map - Career Navigators
 <p><strong>Examples: </strong>{{ item.examples }}</p>
 </div>
 </div>
-{% endif %}
 {% for section in item.sections %}
 <div class="row">
 <div class="col">
@@ -32,6 +31,7 @@ title: LER Ecosystem Map - Career Navigators
 </div>
 </div>
 {% endfor %}
+{% endif %}
 {% endfor %}
 
 

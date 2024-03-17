@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: stakeholder
 title: LER Ecosystem Map - Data Standards Bodies
 ---
 {% for item in site.data.stakeholders-list.stakeholders %}
