@@ -13,12 +13,16 @@
       <ul class="navbar-nav ml-auto">
         <!-- The list of pages is pulled from /_data/pagelist.yml. Currently it allows for two levels of page hierarchy. -->
         {% for item in site.data.pagelist.pages %}
-          {% if item.subpages[0] %}
+          {% if item.page == "Stakeholders" %}
             <li class="nav-item dropdown">
               <a class="nav-link  dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" data-bs-toggle="dropdown">{{ item.page }}</a>
               <ul class="dropdown-menu">
-                {% for entry in item.subpages %}
+              <!--  {% for entry in item.subpages %}
                   <li><a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}"><img src="{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.page }}</a></li>
+                {% endfor %}-->
+                {% for entry in site.data.stakeholders-list.stakeholders %}
+
+                  <li><a class="dropdown-item" href="{{ site.baseurl }}/stakeholder/{{ entry.url }}"><img src="{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.name}}</a></li>
                 {% endfor %}
               </ul>
             </li>
