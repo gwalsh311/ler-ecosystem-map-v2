@@ -18,23 +18,29 @@ title: LER Ecosystem Map - Career Navigators
 <div class="col-sm-2">
 </div>
 </div>
+
+
 <div class="row">
-<div class="col">
+<div class="col-sm-2">
 </div>
-</div>
+
 {% for section in item.sections %}
-<div class="row">
-<div class="col-sm-6 body-text-medium">
+<div class="col-sm-4 body-text-medium">
 <h3>{{ section.title }}</h3>
 <h4>{{ section.subheader}}</h4>
 {% for bullet in section.bullets %}
-<ul role="list">
-<li>{{ bullet }}</li>
-</ul>
+
+{{ bullet }}
+
+{% endfor %}
+
+</div>
+
+<div class="col-sm-2">
+</div>
 {% endfor %}
 </div>
-</div>
-{% endfor %}
+
 {% endif %}
 {% endfor %}
 
