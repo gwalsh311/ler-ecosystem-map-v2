@@ -7,7 +7,7 @@ title: LER Ecosystem Map
     <div class="row">
         <div class="col">
 
-			<h1 class="heading small">THE<br/>LER ECOSYSTEM MAP</h1>
+			<h1 class="heading small">THE<br/> LER ECOSYSTEM MAP</h1>
 			<h2 class="sub-heading">Driving Opportunity and Equity<br/>
 			Through Learning &amp; Employment Records</h2>
 

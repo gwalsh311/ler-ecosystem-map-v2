@@ -2231,7 +2231,7 @@ textarea.w-input, textarea.w-select {
 
 .heading.small {
   text-align: center;
-  font-size: 8.75rem;
+  font-size: 7.75rem;
 }
 
 .heading.expl, .heading.map {
@@ -2244,7 +2244,7 @@ textarea.w-input, textarea.w-select {
   font-family: nitti-grotesk-condensedlight, sans-serif;
   font-size: 3.5rem;
   font-weight: 500;
-  line-height: 115%;
+  line-height: 100%;
 }
 
 .sub-heading.explained {
@@ -2471,7 +2471,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .section-intro {
-  width: 100vw;
+  width: 90vw;
   min-height: 100vh;
   grid-row-gap: 3vh;
   flex-direction: column;
@@ -2480,7 +2480,7 @@ textarea.w-input, textarea.w-select {
   margin-bottom: 3vw;
   display: flex;
   position: relative;
-  margin-top: 3.5rem;
+  margin-top: 1.5rem;
 }
 
 .section-intro.top {

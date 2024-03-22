@@ -8,29 +8,39 @@ title: LER Ecosystem Map - Career Navigators
 <div class="col-sm-2">
 <img class="w-100" src="{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
 </div>
-<div class="col-sm-10">
+<div class="col-sm-8">
 <h1>{{ item.name }}</h1>
-</div>
-</div>
-<div class="row">
-<div class="col">
+<div class="body-text-medium">
 <p><strong>Definition: </strong>{{ item.definition }}</p>
 <p><strong>Examples: </strong>{{ item.examples }}</p>
 </div>
 </div>
-{% for section in item.sections %}
+<div class="col-sm-2">
+</div>
+</div>
+
+
 <div class="row">
-<div class="col">
+<div class="col-sm-2">
+</div>
+
+{% for section in item.sections %}
+<div class="col-sm-4 body-text-medium">
 <h3>{{ section.title }}</h3>
 <h4>{{ section.subheader}}</h4>
 {% for bullet in section.bullets %}
-<ul role="list">
-<li>{{ bullet }}</li>
-</ul>
+
+{{ bullet }}
+
+{% endfor %}
+
+</div>
+
+<div class="col-sm-2">
+</div>
 {% endfor %}
 </div>
-</div>
-{% endfor %}
+
 {% endif %}
 {% endfor %}
 
