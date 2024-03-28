@@ -20,12 +20,10 @@ title: LER Ecosystem Map - Career Navigators
 </div>
 
 
-<div class="row">
-<div class="col-sm-2">
-</div>
+<div class="row section-bullet">
 
 {% for section in item.sections %}
-<div class="col-sm-4 body-text-medium">
+<div class="col-sm-5 body-text-medium section-bullet-text">
 <h3>{{ section.title }}</h3>
 <h4>{{ section.subheader}}</h4>
 {% for bullet in section.bullets %}
@@ -36,11 +34,8 @@ title: LER Ecosystem Map - Career Navigators
 
 </div>
 
-<div class="col-sm-2">
-</div>
 {% endfor %}
 </div>
-
 {% endif %}
 {% endfor %}
 
