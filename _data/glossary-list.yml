@@ -1,9 +1,35 @@
 #list of shared glossary terms
 
 terms:
-  - term: Holder
-    definition: A role an entity might perform by possessing one or more verifiable credentials and generating presentations from them. A holder is usually, but not always, a subject of the verifiable credentials they are holding. Holders store their credentials in credential repositories.  (W3C def)
-  - term: Issuing/Issuer
-    definition: A role an entity can perform by asserting claims about one or more subjects, creating a verifiable credential from these claims, and transmitting the verifiable credential to a holder. (W3C def)
+  - term: Assertion
+    definition: A statement in a credential about a person's achievement.
+  - term: Competency Framework
+    definition: An instance of a logically related set of competencies, knowledge, skills, abilities, or other attributes (KSAOs). When they are stored in accessible formats, they can be easily used across systems.
+  - term: Comprehensive Learner Record (CLR)
+    definition: CLR is 1) a standard format for issuing multiple achievements as a single credential. The CLR standard version 2.0 can contain Open Badges (version 3.0) and other credentials including transcripts. 2) A credential issued in this format. Some wallets can now store CLRs in them. 
+  - term: Credential
+    definition: We use the World Wide Web Consortium's broad definition of credential to mean anything that proves something about a person, i.e. qualification, competency, or clearance. This includes someone's identity, license, diploma, work eligibility, badge, certification, etc.
+  - term: Digital Wallet
+    definition: A digital credential wallet is software that helps individuals store, manage, and share their educational, work, and other credentials. Digital wallets should be interoperable, meaning individuals can easily import and export their standards-compliant credentials without losing information.It operates in a similar way to a physical wallet that holds money, important documents, and identification.
+  - term: Evidence
+    definition: Any links, multimedia, work samples, assessment results, or other documentation provided with a credential that supports its credibility and value.
+  - term: Interoperability
+    definition: The ability of different devices, software, or systems to successfully talk to each other. Interoperability is a characteristic of a product or system to work with other products or systems.
+  - term: Issuer
+    definition: An organization or person who creates a credential.
+  - term: Learning and Employment Record (LER)
+    definition: LER is a category that describes a record or collection of records relevant to education, hiring, and advancement. The current best practice for LERs for the purpose of skills-based hiring and advancement is for LERs to meet a set of criteria that supports their usefulness for representing a person's qualifications interoperably (across different organizations systems, including HR systems, education systems, and online profiles). Yet, this list of criteria is still aspirational. Issuing credentials as the latest versions of CLR, Open Badge, or W3C Verifiable Credential is a great step towards meeting these criteria. These credentials can be stored in digital wallets and easily moved between them.
+  - term: Micro-credential
+    definition: While there is little agreement on the definition of a microcredential, AACRAO suggests&#x3b; A microcredential is generally a subset of learning achievements or outcomes that is less than a full degree or certificate. Ideally they are stackable and demonstrate earning criteria" (AACRAO, 2022).
+  - term: Open Data Standard
+    definition: Open data standards are agreements that establish a consistent way to create, use, and share data… Ideally, open standards are free/low-cost, consistent, create portable data, are openly-governed, interoperable, useful, and structured. Open data standards are just the [data] formats being made available, not the data itself" (Learning Economy Foundation, 2022). 
+  - term: Open Data Standard
+    definition: Digital badges which are awarded using the Open Badge standard.
+  - term: Verification
+    definition: Often appears as a green checkmark on a credential that ensures no fraud has occurred since it was issued and that the credential belongs to whoever is sharing it. This checkmark appears upon loading the credential or on demand to represent that the software has just checked the credential's real-time integrity. It is not a representation of the quality of the credential's contents.
+  - term: Verifiable Credential
+    definition: 1) A credential that can be verified using the definition of verification above. 2) The name of the data standard from the World Wide Web Consortium that guarantees a credential is tamper evident, interoperable, and provides multiple options for disclosing all or selective parts of the credential contents, at the discretion of the credential holder. The CLR 2.0 and Open Badge 3.0 are compatible with this standard and more compatible standards are coming soon.
+  - term: Verifier
+    definition: Typically an employer or other organization which wants to check that a credential is real.
 
     
