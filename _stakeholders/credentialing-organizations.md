@@ -19,8 +19,6 @@ title: LER Ecosystem Map - Credentialing Organizations
 </div>
 </div>
 
-
-
 <div class="row body-text-medium">
 <div class="col-sm-2">
 </div>
@@ -76,8 +74,6 @@ title: LER Ecosystem Map - Credentialing Organizations
 
 {% endfor %}
 </div>
-
-
 
 {% endif %}
 {% endfor %}

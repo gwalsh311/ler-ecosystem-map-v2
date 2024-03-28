@@ -427,6 +427,10 @@ a.dropdown-item {
   transition: all 0.2s ease;
 }
 
+.dropdown-item{
+	padding: .3rem .7rem;
+}
+
 li.nav-item, .dropdown-menu li {
   margin-top: 0.1rem;
   margin-bottom: 0.1rem;
@@ -443,6 +447,10 @@ a.dropdown-item:hover {
   margin-bottom: 0.5rem;
   border: 1px solid #ccc;
   background-color: var(--white);
+}
+
+.dropdown-menu.show{
+	min-width:19rem;
 }
 
 .dropdown-item:hover{
