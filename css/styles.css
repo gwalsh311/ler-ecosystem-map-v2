@@ -2379,6 +2379,16 @@ textarea.w-input, textarea.w-select {
   font-weight: 400;
 }
 
+.business-case{
+	background-color: aliceblue;
+	border-radius: 4px;
+	padding: 3rem;
+}
+
+.quote{
+	margin: 3rem 0;
+}
+
 .body-text-medium {
   max-width: none;
   color: var(--black);

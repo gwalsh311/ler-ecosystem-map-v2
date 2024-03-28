@@ -22,7 +22,7 @@ title: LER Ecosystem Map - Credentialing Organizations
 <div class="row body-text-medium">
 <div class="col-sm-2">
 </div>
-<div class="col-sm-4">
+<div class="col-sm-4 business-case">
 <h3>Business Case</h3>
 <ul>
 {% for case in item.business-case %}
@@ -31,7 +31,7 @@ title: LER Ecosystem Map - Credentialing Organizations
 </ul>
 </div>
 
-<div class="col-sm-4">
+<div class="col-sm-4 business-case">
 <h3>Social Case </h3>
 <ul>
 {% for case in item.social-case %}
@@ -49,7 +49,7 @@ title: LER Ecosystem Map - Credentialing Organizations
 
 <div class="row">
 <div class="col-sm-3"></div>
-<div class="col-sm-6">
+<div class="col-sm-6 quote">
 {% for quote in item.quote %}
 <blockquote>{{ quote.title }}</blockquote>
 <p>{{ quote.description}}</p>
