@@ -117,7 +117,7 @@ stakeholders:
       - shifting
     definition: An individual, company or organization that pays for work. 
     examples: Large, medium and small enterprise businesses or companies, government or other agencies, non-profits or individuals.
-    business case:
+    business-case:
      - title: Lowering cost to find and hire top talent
        description: LERs enable employers to identify desired skills within a talent pool. LERs are instantly verified, allowing hiring managers to remove additional time required to check the validity of credentials 
      - title: Opportunity to attract qualified and diverse talent
@@ -126,7 +126,7 @@ stakeholders:
        description: LERs can be used to customize onboarding plans and streamline how skill gaps are addressed
      - title: Support retention
        description: Encourage employee growth through learning and skills development and attainment, as well as identifying candidates for career advancement with customized upskilling plans
-    social case:
+    social-case:
      - title: Leadership as DEIB-forward employer
        description: offering employees ownership over their digital identity and opening up access to jobs and advancement through skills-based hiring and lifelong learning attracts top talent
     sections:
