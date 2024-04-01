@@ -3,7 +3,7 @@ layout: stakeholder
 title: LER Ecosystem Map - Data Standards Bodies
 ---
 {% for item in site.data.stakeholders-list.stakeholders %}
-{% if item.name == "Data Standards Bodies" %}
+{% if item.name == "Data Standards Organizations" %}
 <div class="row">
 <div class="col-sm-2">
 <img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
