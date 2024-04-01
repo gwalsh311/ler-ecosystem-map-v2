@@ -9,9 +9,9 @@ title: LER Ecosystem Map - LER Guidance
 
 
 <div>
-	<p>For LERs to be effective at scale, they must be able to function across a variety of systems where individuals may seek to use their employment and education data. In other words, they must be interoperable. By leveraging new technologies, LERs are reshaping not only what is recorded about a learner’s accomplishments, knowledge, skills, and capabilities, but how learners can access and use their data to pursue employment and further education without barriers.</p>
+<p>For LERs to be effective at scale, they must be able to function across a variety of systems where individuals may seek to use their employment and education data. In other words, they must be interoperable. By leveraging new technologies, LERs are reshaping not only what is recorded about a learner’s accomplishments, knowledge, skills, and capabilities, but how learners can access and use their data to pursue employment and further education without barriers.</p>
 
-<p>Therefore, we need shared guidance for decision makers involved in LERs. The following recommendations for the development of LERs follow key principles from the <a href ="https://www.w3.org/TR/vc-data-model" target=_"blank"> W3C Verifiable Credentials Data Model </a>, a widely referenced data standard containing properties commonly found in physical credentials. </p>
+<p>Therefore, we need shared guidance for decision makers involved in LERs. The following recommendations for the development of LERs follow key principles from the <a href ="https://www.w3.org/TR/vc-data-model" target=_"blank"> W3C Verifiable Credentials Data Model</a>, a widely referenced data standard containing properties commonly found in physical credentials. </p>
 
 <p> <a href ="https://www.c-ben.org/wp-content/uploads/2023/03/CBEN-23-003-Interoperable-Learning-WALMART-V2.pdf" target="_blank">The Competency Based Education Network Interoperability Principles </a> offer guidance and key design elements for optimal LER systems. Recognition and adherence to these principles is encouraged for technology vendors and other decision makers within the ecosystem. 
 </p>
