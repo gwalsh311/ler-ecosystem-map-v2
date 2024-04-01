@@ -1,16 +1,17 @@
 # List of site pages used to populate the navbar. To add a dropdown
 # under any page insert listings as subpages.
 pages:
-  - page: Stakeholders #dropdown items pulled from stakeholders-list.yml
   - page: About
     url: /about
+  - page: Stakeholders #dropdown items pulled from stakeholders-list.yml
   - page: LERs Explained
     url: /lers-explained
-  - page: Action Areas
-    url: /action-areas
-  - page: Resources
-    url: /resources
-  - page: Guidance
-    url: /ler-guidance
-  - page: Glossary
-    url: /glossary
+    subpages:
+      - page: Action Areas
+        url: /action-areas
+      - page: Resources
+        url: /resources
+      - page: Guidance
+        url: /ler-guidance
+      - page: Glossary
+        url: /glossary

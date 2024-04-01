@@ -5,32 +5,44 @@
     <a id="navbar-logo" class="navbar-brand logo-image" href="{{ site.baseurl }}/">LER Ecosystem Map<!--<img src="images/DCC_navbar-logo.png" alt="Digital Credentials Consortium">--></a>
 
     <!-- Toggle button when page list is collapsed -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarToggler">
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
         <!-- The list of pages is pulled from /_data/pagelist.yml. Currently it allows for two levels of page hierarchy. -->
         {% for item in site.data.pagelist.pages %}
           {% if item.page == "Stakeholders" %}
             <li class="nav-item dropdown">
               <a class="nav-link  dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" data-bs-toggle="dropdown">{{ item.page }}</a>
               <ul class="dropdown-menu">
-              <!--  {% for entry in item.subpages %}
-                  <li><a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}"><img src="{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.page }}</a></li>
-                {% endfor %}-->
                 {% for entry in site.data.stakeholders-list.stakeholders %}
-
-                  <li><a class="dropdown-item" href="{{ site.baseurl }}/stakeholder/{{ entry.url }}"><img src="{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.name}}</a></li>
+                  <li><a class="dropdown-item" href="{{ site.baseurl }}/stakeholder/{{ entry.url }}"><img src="{{ base }}/images/{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.name}}</a></li>
                 {% endfor %}
               </ul>
             </li>
+
+          {% elsif item.page == "LERs Explained" %}
+
+            <li class="nav-item dropdown">
+              <a class="nav-link  dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" data-bs-toggle="dropdown">{{ item.page }}</a>
+                <ul class="dropdown-menu lers-explained">
+                  {% for entry in item.subpages %}
+                  <!--  <li><a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.page }}</a></li>-->
+                 <!-- <li><a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}"><img src="{{ base }}/images/yellow-bullet.png" loading="lazy" alt="list-item-bullet"/> {{ entry.page}}</a></li> -->
+                  <li><a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.page}}</a></li>
+
+                  {% endfor %}
+                </ul>
+            </li> 
+
           {% else %}
+
             <li class="nav-item">
                 <a class="nav-link page-scroll" href="{{ site.baseurl }}{{ item.url }}" data-target="#navbarToggler">{{ item.page }}</a>
             </li>
-          {% endif %}
+          {% endif %} 
         {% endfor %}
       </ul>
     </div>

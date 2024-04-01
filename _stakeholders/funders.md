@@ -6,7 +6,7 @@ title: LER Ecosystem Map - Funders
 {% if item.name == "Funders" %}
 <div class="row">
 <div class="col-sm-2">
-<img class="w-100" src="{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
+<img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
 </div>
 <div class="col-sm-10">
 <h1>{{ item.name }}</h1>
