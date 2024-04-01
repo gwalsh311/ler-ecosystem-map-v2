@@ -14,19 +14,19 @@ stakeholders:
       - title: Developing
         subheader: Researching & creating the LER solutions
         bullets:
-          - Work across the career navigation spectrum to contribute a workforce development perspective to R&D, including the perspective of workers directly.
+          - Work across the career navigation spectrum to contribute a workforce development perspective to R&D, including the perspective of workers directly
       - title: Issuing
         subheader: Issuing verifiable LERs to learners & earners
         bullets:
-          - Provide outreach and education for users, support learners and earners understanding of their credential data.
+          - Provide outreach and education for users, support learners and earners understanding of their credential data
       - title: Using
         subheader: Learners and earners using LERs to discover & access opportunities
         bullets:
-          - Identify and implement effective tools and supports for learners and earners to discover and apply for jobs and opportunities.
+          - Identify and implement effective tools and supports for learners and earners to discover and apply for jobs and opportunities
       - title: Adopting
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
-          - Provide information and support to learners and earners on how to take advantage of skills-based career paths.
+          - Provide information and support to learners and earners on how to take advantage of skills-based career paths
           - Offer wraparound career support and mentorship.
   - name: Credentialing Organizations
     icon: credentialing-organizations.svg
@@ -40,57 +40,73 @@ stakeholders:
     examples: Colleges and universities, union apprenticeships, industry association for manufacturing or early child care, state licensure associations, boards of nursing, education, and cosmetology etc., NGOs or non-profits, online learning providers
     business-case:
       - title: Cost efficiency
-        description: cost savings from the improved outcomes of institutional efficiency in admissions and learner mobility
+        description: cost savings from the improved outcomes of institutional efficiency in admissions, transfer and learner mobility
       - title: Potential for enrollment growth
-        description: expand continuing education programs in particular to support re- and up-skilling.
+        description: expand continuing education programs in particular to support re- and up-skilling
       - title: Admissions
-        description: tap into a wider potential student pool with better ability to provide personalized supports based on applicants’ skills and competencies
+        description: better ability to provide personalized supports based on applicants’ skills and competencies and match learners with suitable academic and training programs 
+
     social-case:
-      - title: Serving learners better
-        description: By recognizing a wide range of skills and competencies, learners will be able to find and apply for good jobs, thus driving results in accessing opportunities and higher earning potential
+      - title: Preparing learners for success
+        description: By issuing LERs for both large scale achievements and more granular competencies, learners are better able to curate and market their particular skills and abilities when entering the workforce or seeking high earning careers 
       - title: Leadership as a learner-centered institution
-        description: open up access to quality learning opportunities to more learners by removing artificial barriers to entry and increasing access to economic mobility 
+        description: open up access to quality learning opportunities to more learners by mitigating barriers to entry
     quote:
-      - title: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do.
+      - title: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do
         description: Angela Consani, Co-Founder & CEO, Bioscience Core Skills Institute
     sections:
       - title: Developing
         subheader: Researching & creating the LER solutions
         bullets:
-          - Partner in research and pilots — to better understand LER ROI for institutions and their learners, curriculum development systems, etc.
-          - Align curriculum and learning outcomes to learner and employer needs.
-          - Engage stakeholders across the education/training institution, including leadership, faculty, student affairs, registrars, continuing education, career counselors, etc.
-          - Ensure participation of a broad range of institutions, in particular including community colleges, in pilots.
+          - Partner in research and pilots — to better understand LER ROI for institutions and their learners, engaging stakeholders across the education/training institution, including leadership, faculty, student affairs, registrars, continuing education, career counselors, etc.
+          - Align curriculum and learning outcomes to learner and employer needs
       - title: Issuing
         subheader: Issuing verifiable LERs to learners & earners
         bullets:
-          - Issue digital versions of academic credentials. 
-          - Explore a competency-based approach to designing curriculum, learning, and assessment. 
+          - Issue digital, open standards compliant, data rich academic credentials including degrees, diplomas, certificates, and licensures
+          - Explore a competency-based approach to designing curriculum, learning, and assessment
           - Develop policies and practices to validate and document skills, use skills in credit for prior learning, admissions, and audits for program completion.
-          - Define governance and infrastructure to ensure quality assurance of issued credentials (influenced by industry standards, accreditation bodies, local employers and educators).
-          - Work with policymakers (including input from Commonwealth countries and EU) on qualifications frameworks for transparent learning progressions.
-          - Ensure that credential and skills data are issued and used in an interoperable manner.
+          - Define governance and infrastructure to ensure quality assurance of issued credentials (influenced by industry standards, accreditation bodies, local employers and educators)
+          - Work with policymakers on qualifications frameworks for transparent learning progressions
+          - Ensure that credential and skills data are issued and used in an interoperable manner
       - title: Using
         subheader: Learners and earners using LERs to discover & access opportunities
         bullets:
-          - Undertake change management including -  training staff on LERs.
-          - Implement curriculum with skills and competency-based approaches to assessment for publishing to LER.
-          - Use performance-based, criterion referenced, authentic assessments to validate mastery of skills.
+          - Undertake change management including training educators, counselors and learners  on LERsImplement curriculum with skills and competency-based approaches to assessment for publishing to LER
       - title: Adopting
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
-          - Include support for LERs in  admissions systems and decision making processes.
-          - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services.
-          - Expand prior learning recognition to offer credits for  experiences in other settings and institutions.
-          - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum.
-          - Develop 'evidence' supporting skill/competency acquisition that has predictive validity.
-  - name: Data Standards Bodies
+          - Include support for LERs in admissions systems and decision making processes, expanding prior learning recognition to offer credits for experiences in other settings and institutions
+          - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services
+          - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum
+  - name: Data Standards Organizations
     icon: data-standards-bodies.svg
     icon-alt: An icon of a globe with connections and tech symbols
-    url: data-standards-bodies
+    url: data-standards-organizations 
     action-areas: 
     definition: Technical communities and organizations that develop and put forth specifications and standards to protect learner data and promote interoperability
     examples: W3C, 1EdTech, DIF, HR Open, Credential Engine
+    sections: 
+      - title: Developing 
+        subheader: Researching and creating LER solutions 
+        bullets: 
+          - Develop and provide oversight of key standards
+          - Map and harmonize data standards and create and align on standards for data infrastructure: integrity, ownership, protection and privacy 
+      - title: Issuing
+        subheader: Issuing verifiable LERs to learners & earners
+        bullets:
+          - Encourage the adoption of open standards and open application programming interfaces (APIs) 
+          - Support including open standard linked open data in LERs to provide meaning and contextualization
+      - title: Using
+        subheader: Learners and earners using LERs to discover & access opportunities
+        bullets: 
+          - Identify and close data standards gaps that hold back adoption and uptake
+          - Support the use of open standards for research and data analysis
+      - title: Adopting 
+        subheader: Integrating systems & behaviors that accept LERs for opportunities
+        bullets: 
+          - Support the use of open standards by all types of systems, including government and open source systems as well as commercial and proprietary systems
+          - Provide test suites and other mechanisms for  technology providers to demonstrate that their products conform to specific standards and demonstrate interoperability
   - name: Employers
     icon: employers.svg
     icon-alt: An icon of a person in front of a business
@@ -101,6 +117,42 @@ stakeholders:
       - shifting
     definition: An individual, company or organization that pays for work. 
     examples: Large, medium and small enterprise businesses or companies, government or other agencies, non-profits or individuals.
+    business case:
+     - title: Lowering cost to find and hire top talent
+       description: LERs enable employers to identify desired skills within a talent pool. LERs are instantly verified, allowing hiring managers to remove additional time required to check the validity of credentials 
+     - title: Opportunity to attract qualified and diverse talent
+       description: reputation for innovation on Diversity, Equity, Inclusion, and Belonging (DEIB) and career development leads to swifter access to top talent
+     - title: Lowering onboarding and training costs
+       description: LERs can be used to customize onboarding plans and streamline how skill gaps are addressed
+     - title: Support retention
+       description: Encourage employee growth through learning and skills development and attainment, as well as identifying candidates for career advancement with customized upskilling plans
+    social case:
+     - title: Leadership as DEIB-forward employer
+       description: offering employees ownership over their digital identity and opening up access to jobs and advancement through skills-based hiring and lifelong learning attracts top talent
+    sections:
+    - title: Developing
+      subheader: Researching & creating the LER solutions
+      bullets: 
+        - Partner in research and pilots — on data collection, alignment of skills to business needs, systems integration, etc.
+        - Advocate to HR software providers to explore which standards they comply with and communicate their desire to explore LERs
+    - title: Issuing
+      description: Issuing verifiable LERs to learners & earners
+      bullets:
+       - Adopt a skills-based approach to training, talent development, and retention, adopting or mapping jobs to skills frameworks
+       - Issue LERs to document employees’ skills development and achievements
+       - Train supervisors on how to utilize LER tools to issue LERs for incumbent workers and those participating in work-based learning opportunities
+    - title: Using
+      description: Learners and earners using LERs to discover & access opportunities
+      bullets:
+       - Train hiring managers and supervisors on how to use LERs and skills-based approaches
+       - Work with internal teams to develop and standardize skills-based job descriptions and postings and to validate skill requirements through job analysis, leveraging emerging tools that support this process 
+       - Work with education, training, and credentialing partners to integrate LERs into talent pipelines
+    - title: Adopting
+      description: Integrating systems & behaviors that accept LERs for opportunities
+      bullets:
+        - Adopt new HR systems, HR processes and hiring behaviors to use LERs for employment opportunities
+        - Work with HR vendors to adopt shared standards so HR systems can process resumes as machine actionable LER data when assessing qualifications for a job
+        - Track metrics regarding successful placement and data on effectiveness for company and users
   - name: Funders
     icon: funders.svg
     icon-alt: An icon of a coin 
