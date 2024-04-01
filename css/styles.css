@@ -498,6 +498,10 @@ a.dropdown-item:hover {
   background-color: var(--white);
 }
 
+.navbar.top-nav-collapse li {
+  padding: 0.5rem;
+}
+
 .offcanvas-collapse {
   position: static;
   top: auto;
