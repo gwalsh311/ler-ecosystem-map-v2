@@ -6,11 +6,12 @@ pages:
     url: /about
   - page: LERs Explained
     url: /lers-explained
-  - page: Action Areas
-    url: /action-areas
-  - page: Resources
-    url: /resources
-  - page: Guidance
-    url: /ler-guidance
-  - page: Glossary
-    url: /glossary
+    subpages:
+      - page: Action Areas
+        url: /action-areas
+      - page: Resources
+        url: /resources
+      - page: Guidance
+        url: /ler-guidance
+      - page: Glossary
+        url: /glossary

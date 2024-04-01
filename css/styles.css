@@ -439,7 +439,7 @@ li.nav-item, .dropdown-menu li {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 a.dropdown-item:hover {
-  color: var(--maroon);
+  color: var(--orange);
 }
 
 .navbar .dropdown-menu {
@@ -452,6 +452,34 @@ a.dropdown-item:hover {
 .dropdown-menu.show{
 	min-width:19rem;
 }
+
+.dropdown-menu.show.lers-explained {
+  min-width:13rem;
+}
+
+.dropdown-menu.show.lers-explained li {
+  padding: .5rem;
+}
+
+
+.link-block {
+  width: 22vw;
+  height: 20vh;
+  background-color: var(--orange);
+  border: 1px solid #000;
+  border-radius: 1.25rem;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  display: flex;
+}
+
+
+
+
+
+
+
 
 .dropdown-item:hover{
   background-color: var(--white);
