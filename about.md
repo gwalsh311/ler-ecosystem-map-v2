@@ -7,17 +7,16 @@ title: LER Ecosystem Map - About
 	<div class="intro-content sticky">
 		<div class="intro-content-image-div">
 			<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5f_LER_support.svg" loading="lazy" alt="An icon of two people with a heart between them" class="imagine-image"/>
-		</div>
-		<div class="intro-content-text-div div-block div-block-2 div-block-3 div-block-4 div-block-5 div-block-6 div-block-7 sticky">
-			<h2 class="sub-heading imagine">Imagine A World Where...</h2>
-			<ul role="list">
-				<li class="body-text-medium">Everyone is empowered to access learning and earning opportunities based on what they know and can do, whether those skills and abilities are obtained through degrees, work experiences, or independent learning.<br/>‍</li>
-				<li class="body-text-medium">People can capture and communicate the skills and competencies they’ve acquired across their entire learning journey — from education, experience and service — with more ease, confidence, and clarity than a traditional resume.<br/>‍</li>
-				<li class="body-text-medium">Learners and earners control their information and can curate their skills to take advantage of every opportunity they are truly qualified to pursue, opening up pathways that help address systemic inequities.<br/>‍</li>
-				<li class="body-text-medium">Employers can tap into a wider talent pool and better match applicants to opportunities with verifiable credentials that represent skills, competencies, and achievements.<br/>‍</li>
-			</ul>
-			<div class="body-text-medium">This is the world that we believe can be created by <strong>Learning and Employment Records (LERs),</strong> i.e. digital records of learning and work experiences that are linked to and controlled by learners and earners. An interoperable, well-governed LER ecosystem has the potential to transform the future of work so that it is more equitable, efficient, and effective for everyone involved— individuals, training and education providers, employers, and policymakers. <br/><br/>‍<strong>Most importantly,</strong> <strong>an LER ecosystem has the potential to help learners and earners  overcome systemic inequities that limit access to learning opportunities and higher paid jobs.<br/><br/>‍</strong>The skillification of education and employment (progress towards recognition of more granular skills and competencies obtained through formal and informal education and work experiences, as opposed to just degrees), is already well underway. Right now, we have a tremendous opportunity and responsibility to make sure it is done right, with access to opportunity at its heart.<br/><br/>There are many challenges to overcome, and solving them will require a coordinated approach. Building an ecosystem in which all stakeholders can derive and trust in the value of LER investments will require engaging a diverse set of employers, learners, and educators, proving value with evidence of data on impact, and empowering the whole ecosystem to shift to a skills-based model.<br/><br/>This <strong>LER Ecosystem Map</strong> is a tool for all those involved, and those who want to be involved, in building this future — a tool to empower us all to focus on key challenges and connect through our shared mission. <br/><br/>So, let’s dive in. Innovation will keep moving at pace, which means opportunity can’t wait. For widespread  access to opportunity, for learner and earner empowerment, for efficiency and effectiveness in matching great talent to great jobs — let’s do this together.
-			</div>
-		</div>
-	</div>
+<div class="body-text-medium">
+<BR> </BR>The LER Ecosystem Map was developed through a collaborative effort among a group of key stakeholders across education, technology, government, and research and advocacy. Version 1 of the map identified value propositions and action areas for stakeholders with the goal of broadening adoption and cultivating effective, equitable use of LERs. This second iteration of the LER Ecosystem Map aims to address gaps in understanding on terminology and frameworks around LERs, framing the guidance within the map with widely accepted definitions. <br><br>
+
+LERs function within a broad ecosystem of stakeholders working in different capacities across a number of work streams related to learning and employment. Technical and philosophical alignment among these stakeholders is critical in cultivating an LER ecosystem that promotes equity in education and employment, protects learner data, and optimizes processes for employers, policymakers, and education and training providers. <br><br>
+
+<h2>This LER Ecosystem Map is a tool for all those involved, and those who want to be involved, in building this future — a tool to empower us all to focus on key challenges and connect through our shared mission. </h2> <br><br>
+
+Alongside the development of digital versions of diplomas and degrees, the defining, describing,  and recognition of granular skills and competencies is well underway. Right now, we have a tremendous opportunity and responsibility to make sure it is done right, with access to opportunity at its heart. Building an ecosystem in which all stakeholders can derive and trust in the value of LER investments will require engaging a diverse set of employers, learners, and educators, proving value with evidence of data on impact, and empowering the whole ecosystem to allow for both degree and skills- based models. <br><br>
+
+So, let’s dive in. Innovation will keep moving at pace, which means opportunity can’t wait. For widespread access to opportunity, for learner and earner empowerment, for efficiency and effectiveness in matching great talent to great jobs — let’s do this together. 
+
+			
 </section>
