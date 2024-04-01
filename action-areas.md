@@ -35,7 +35,7 @@ title: LER Ecosystem Map - Action Areas
 						
 								<div class="col-sm-4 border text-center">
 
-									<div><a class="dropdown-item" href="{{ site.baseurl }}{{ item.url }}"><img src="{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/><br/>{{ item.name }}</a></div>
+									<div><a class="dropdown-item" href="{{ site.baseurl }}/stakeholder/{{ item.url }}"><img src="./images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/><br/>{{ item.name }}</a></div>
 
 								</div> 
 							{% endif %}	
