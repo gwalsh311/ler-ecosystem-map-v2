@@ -5,8 +5,8 @@ title: LER Ecosystem Map - About
 
 <section class="section-intro-content">
 	<div class="intro-content sticky">
-		<div class="intro-content-image-div">
-			<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5f_LER_support.svg" loading="lazy" alt="An icon of two people with a heart between them" class="imagine-image"/>
+		<div class="intro-content-image-div">		
+			<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5f_LER_support.svg" loading="lazy" alt="An icon of two people with a heart between them" class="imagine-image"/></b> <br><br>
 <div class="body-text-medium">
 The LER Ecosystem Map was developed through a collaborative effort among a group of key stakeholders across education, technology, government, and research and advocacy. Version 1 of the map identified value propositions and action areas for stakeholders with the goal of broadening adoption and cultivating effective, equitable use of LERs. This second iteration of the LER Ecosystem Map aims to address gaps in understanding on terminology and frameworks around LERs, framing the guidance within the map with widely accepted definitions. <br><br>
 
