@@ -6,7 +6,7 @@ title: LER Ecosystem Map - LERs Explained
 <section class="section-explained">
     <div class="title-div explained">
         <div>
-            <img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5d_Frame%203.svg" loading="lazy" alt="An icon of two people using a laptop" class="title-image"/>
+            <img src="./images/learners-earners.svg" loading="lazy" alt="An icon of two people using a laptop" class="title-image"/>
             <h1 class="heading expl">LERs<br/>EXPLAINED</h1></div>
             <div class="title-div-content">
                 <h2 class="sub-heading imagine">What Are LERs?</h2>
@@ -22,7 +22,7 @@ title: LER Ecosystem Map - LERs Explained
                         </div>
                     </div>
                 </div>
-                <div class="intro-content-image-div static"><img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa46_DataStandardsBodies-1.svg" loading="lazy" alt="An icon of a globe with connections and tech symbols" class="image big"/>
+                <div class="intro-content-image-div static"><img src="./images/data-standards-bodies.svg" loading="lazy" alt="An icon of a globe with connections and tech symbols" class="image big"/>
                 </div>
             </div>
         </div>
