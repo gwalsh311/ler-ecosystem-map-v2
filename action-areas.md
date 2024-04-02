@@ -7,11 +7,11 @@ title: LER Ecosystem Map - Action Areas
 	<div class="col-sm-2">
 		<img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
 	</div>
-	<div class="col-sm-10">
+	<div class="col-sm-8">
 		<h1>Action Areas</h1>
 			<div class="body-text-medium">
-				<div class="body-text-medium">Over the next 12-36 months, there are four key action areas that we believe LER ecosystem stakeholders should focus on to make significant progress towards adoption in service of equity and opportunity.
-				</div>
+				<p>Over the next 12-36 months, there are four key action areas that we believe LER ecosystem stakeholders should focus on to make significant progress towards adoption in service of equity and opportunity.</p>
+			
 			</div>
 	</div>
 </div>	
