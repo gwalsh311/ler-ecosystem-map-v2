@@ -384,7 +384,7 @@ html[data-w-dynpage] [data-w-cloak] {
 /**********************/
 .navbar {
   border-bottom: 1px solid var(--off-white);
-  background-color: var(--white);
+  background-color: aliceblue;
 }
 
 
@@ -2532,7 +2532,7 @@ textarea.w-input, textarea.w-select {
   margin-bottom: 3vw;
   display: flex;
   position: relative;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
 }
 
 .section-intro.top {
@@ -2575,7 +2575,6 @@ textarea.w-input, textarea.w-select {
 }
 
 .intro-content-image-div {
-  height: 100vh;
   max-width: 35vw;
   grid-row-gap: 5vh;
   flex-direction: column;
@@ -2583,8 +2582,7 @@ textarea.w-input, textarea.w-select {
   align-items: center;
   display: flex;
   position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+  padding-top: 1rem;
 }
 
 .intro-content-image-div.static {
