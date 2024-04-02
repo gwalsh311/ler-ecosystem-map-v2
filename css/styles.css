@@ -2319,6 +2319,17 @@ textarea.w-input, textarea.w-select {
   margin-top: 20px;
 }
 
+.action-area{
+	margin-bottom:3rem;
+	background-color: aliceblue;
+	border-radius: 4px;
+	padding: 2rem 3rem 3rem 3rem;
+}
+
+.action-spacer{
+	min-height: 2rem;
+}
+
 .nav-heading {
   color: var(--black);
   text-transform: none;
