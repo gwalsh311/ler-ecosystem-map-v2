@@ -2280,6 +2280,11 @@ textarea.w-input, textarea.w-select {
   font-size: 11vw;
 }
 
+.heading.nav {
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
 .sub-heading {
   color: var(--black);
   text-align: center;
