@@ -6,15 +6,17 @@ title: LER Ecosystem Map
 <div class="container-fluid section-intro">
     <div class="row">
         <div class="col">
-
-			<h1 class="heading small">THE<br/> LER ECOSYSTEM MAP</h1>
-			<h2 class="sub-heading">Driving Opportunity and Equity<br/>
+			<h1 class="heading small">THE LER ECOSYSTEM MAP</h1>
+			<h2 class="sub-heading">Driving Opportunity and Equity
 			Through Learning &amp; Employment Records</h2>
-
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-3">
+			<img src="./images/LER_support.svg" loading="lazy" alt="An icon of two people with a heart between them" class="imagine-image"/>
+		</div>
+		<div class="col-9">
 			<div class="body-text-small">
-
- 				<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5f_LER_support.svg" loading="lazy" alt="An icon of two people with a heart between them" class="imagine-image"/>
-
 				<h2 class="sub-heading imagine">Imagine A World Where...</h2>
 				<ul role="list">
 					<li class="body-text-medium">Everyone is empowered to access learning and earning opportunities based on what they know and can do, whether those skills and abilities are obtained through degrees, work experiences, or independent learning.<br/>‍</li>
@@ -22,27 +24,19 @@ title: LER Ecosystem Map
 					<li class="body-text-medium">Learners and earners control their information and can curate their skills to take advantage of every opportunity they are truly qualified to pursue, opening up pathways that help address systemic inequities.<br/>‍</li>
 					<li class="body-text-medium">Employers can tap into a wider talent pool and better match applicants to opportunities with verifiable credentials that represent skills, competencies, and achievements.<br/>‍</li>
 				</ul>
-
 				<p>This is the world that we believe can be created with the adoption of Learning and Employment Records, or LERs, digital representations of a person’s skills and achievements obtained throughout their lifetime through education, employment and life experiences. LERs provide many advantages that can empower learners and job seekers as well as educators and employers alike. Compared to traditional resumes, LERs are:
-				
 				<ul role="list">
-
 					<li class="body-text-medium"> learner centered and controlled. Once a learner receives a credential, such as a degree, certificate, or training completion, they maintain ownership of their data and can curate their skills and experiences towards a desired learning or career opportunity.</li>
 					<li class="body-text-medium"> data-rich. LERs can include valuable information on learning objectives and outcomes, employers with more relevant and granular information about an individual’s skills and abilities</li>
-					<li class="body-text-medium"> verifiable. LERs contain information on the institution, organization, or individual who has attested to the learners achievement, such that regulated credentials like licensures can be proven valid</li></p>
+					<li class="body-text-medium"> verifiable. LERs contain information on the institution, organization, or individual who has attested to the learners achievement, such that regulated credentials like licensures can be proven valid</li>
 				</ul>
-
-					<p>LERs function within a broad, dynamic ecosystem, one that contains the learners themselves, employers both seeking skills in the workforce and endowing them on the job, education and training providers with a diverse set of delivery models, to name a few. An aligned, well-functioning LER ecosystem creates benefits for learners, earners, and employers. It offers opportunities for improving education outcomes and hiring processes, supporting meaningful careers, and promoting economic mobility.
-	
-	
- 					<span class="cta">Click on each stakeholder to learn more</span></p>
-	
+				</p>
+				<p>LERs function within a broad, dynamic ecosystem, one that contains the learners themselves, employers both seeking skills in the workforce and endowing them on the job, education and training providers with a diverse set of delivery models, to name a few. An aligned, well-functioning LER ecosystem creates benefits for learners, earners, and employers. It offers opportunities for improving education outcomes and hiring processes, supporting meaningful careers, and promoting economic mobility.</p>
 			</div>
 		</div>
 	</div>
-
-	<div class="col">
-		<div class="w-100">
+	<!--<div class="row">
+		<div class="col">
 			<div class="stakeholder-map">
 				<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa54_Group%2039.svg" loading="lazy" alt="An network diagram of the LER phases (Developing, Issuing, Using, and Adopting)" class="map-center-image"/>
 				<div Map="ecosystem" Title="employers" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9a5" class="stakeholder employers shift">
@@ -97,6 +91,6 @@ title: LER Ecosystem Map
 			</div>
 		</div>
 	</div>
-</div>
+</div>-->
 
 
