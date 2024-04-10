@@ -2359,6 +2359,10 @@ textarea.w-input, textarea.w-select {
   font-size: 1rem;
 }
 
+.nav-subheading {
+  margin-top: 0.5rem;
+}
+
 .stat-callout {
   color: var(--white);
   font-family: nitti-grotesk-condensed, sans-serif;
@@ -2538,20 +2542,21 @@ textarea.w-input, textarea.w-select {
   overflow: hidden;
 }
 
-.section-intro {
-  width: 90vw;
-  min-height: 100vh;
+/**.section-intro {
+ width: 100vw;
+ min-height: 100vh;
   grid-row-gap: 3vh;
-  flex-direction: column;
+ flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-bottom: 3vw;
   display: flex;
   position: relative;
   margin-top: 2.5rem;
-}
+}**/
 
-.section-intro.top {
+.landing.top {
+  margin-top: 2.5rem;
   padding-bottom: 10vh;
 }
 
@@ -3786,9 +3791,9 @@ textarea.w-input, textarea.w-select {
     max-width: 28vw;
   }
 
-  .section-intro.top {
+ /* .section-intro.top {
     justify-content: center;
-  }
+  }*/
 
   .title-div.map {
     align-items: center;
