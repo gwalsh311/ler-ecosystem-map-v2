@@ -2542,7 +2542,7 @@ textarea.w-input, textarea.w-select {
   overflow: hidden;
 }
 
-/**.section-intro {
+.section-intro {
  width: 100vw;
  min-height: 100vh;
   grid-row-gap: 3vh;
@@ -2553,7 +2553,7 @@ textarea.w-input, textarea.w-select {
   display: flex;
   position: relative;
   margin-top: 2.5rem;
-}**/
+}
 
 .landing.top {
   margin-top: 2.5rem;
@@ -3796,9 +3796,9 @@ textarea.w-input, textarea.w-select {
     max-width: 28vw;
   }
 
- /* .section-intro.top {
+  .section-intro.top {
     justify-content: center;
-  }*/
+  }
 
   .title-div.map {
     align-items: center;
