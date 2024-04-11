@@ -3,12 +3,62 @@ layout: default
 title: LER Ecosystem Map
 ---
 
-<div class="container-fluid section-intro">
-    <div class="row">
-        <div class="col">
-			<h1 class="heading small">THE LER ECOSYSTEM MAP</h1>
-			<h2 class="sub-heading">Driving Opportunity and Equity
-			Through Learning &amp; Employment Records</h2>
+<div class="container-lg">
+	<div class="row landing top">
+		<div class="col">
+			<div class="stakeholder-map">
+				<img src="./images/stakeholders-center.svg" loading="lazy" alt="A description of the map with instructions to click on the stakeholders to learn more about their roles" class="map-center-image"/>
+				<div class="stakeholder employers">
+					<a href="stakeholder/employers"><img src="./images/employers.svg" loading="lazy" alt="An icon of a person in front of a business" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Employers</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="employers" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder solutions">
+					<a href="stakeholder/solution-providers"><img src="./images/solution-providers.svg" loading="lazy" alt="An icon of a lightbulb" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">LER Solution Providers</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="ler-solutions-providers" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder governance">
+					<a href="stakeholder/governance"><img src="./images/governance.svg" loading="lazy" alt="An icon of two people in front of a government building" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Governance</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="governance" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder navigators">
+					<a href="stakeholder/career-navigators"><img src="./images/career-navigators.svg" loading="lazy" alt="An icon of a navigation path" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Career Navigators</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="career-navigators" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder hr">
+					<a href="stakeholder/hr-systems"><img src="./images/hr-systems.svg" loading="lazy" alt="An icon of two people and a gear" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">HR Systems</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="hr-systems" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder learners">
+					<a href="stakeholder/learners-earners"><img src="./images/learners-earners.svg" loading="lazy" alt="An icon of two people using a laptop" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Learners and Earners</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="learners-earners" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder funders">
+					<a href="stakeholder/funders"><img src="./images/funders.svg" loading="lazy" alt="An icon of a coin" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Funders</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="funders" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder supporting">
+					<a href="stakeholder/supporting-systems"><img src="./images/supporting-systems.svg" loading="lazy" alt="An icon of a heart" class="stakeholder-icon"/>
+					<h4  class="nav-heading small">Supporting Systems</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="supporting-systems" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder credentialing">
+					<a href="stakeholder/credentialing-organizations"><img src="./images/credentialing-organizations.svg" loading="lazy" alt="An icon of a certificate" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Credentialing Organizations</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="credentialing-organizations" alt="" class="icon-selected"/></a>
+				</div>
+				<div class="stakeholder standards">
+					<a href="stakeholder/data-standards-organizations"><img src="./images/data-standards-bodies.svg" loading="lazy" alt="An icon of a globe with connections and tech symbols" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">Data Standards Organizations</h4>
+					<img src="./images/ellipse.svg" loading="lazy" title="data-standards-bodies" alt="" class="icon-selected"/></a>
+				</div>
+			</div>
 		</div>
 	</div>
 	<div class="row">
@@ -35,62 +85,6 @@ title: LER Ecosystem Map
 			</div>
 		</div>
 	</div>
-	<!--<div class="row">
-		<div class="col">
-			<div class="stakeholder-map">
-				<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa54_Group%2039.svg" loading="lazy" alt="An network diagram of the LER phases (Developing, Issuing, Using, and Adopting)" class="map-center-image"/>
-				<div Map="ecosystem" Title="employers" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9a5" class="stakeholder employers shift">
-					<h4 style="opacity:0" class="nav-heading small">Employers</h4>
-					<a href="/employers"><img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa52_Frame%204.svg" loading="lazy" alt="An icon of a person in front of a business" class="stakeholder-icon"/>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="employers" alt="" class="icon-selected shift"/></a>
-				</div>
-				<div Map="ecosystem" Title="ler-solutions-providers" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9aa" class="stakeholder solutions shift">
-					<h4 style="opacity:0" class="nav-heading small">LER Solution Providers</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa53_Frame%206.svg" loading="lazy" alt="An icon of a lightbulb" class="stakeholder-icon"/>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="ler-solutions-providers" alt="" class="icon-selected shift"/>
-				</div>
-				<div Map="ecosystem" Title="governance" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9af" class="stakeholder governance shift"><img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4a_Frame%2011.svg" loading="lazy" alt="An icon of two people in front of a government building" class="stakeholder-icon"/>
-					<h4 style="opacity:0" class="nav-heading small">Governance</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="governance" alt="" class="icon-selected"/>
-				</div>
-				<div Map="ecosystem" Title="career-navigators" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9b4" class="stakeholder navigators shift">
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa43_Frame%2012.svg" loading="lazy" alt="An icon of a navigation path" class="stakeholder-icon"/>
-					<h4 style="opacity:0" class="nav-heading small">Career Navigators</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="career-navigators" alt="" class="icon-selected"/>
-				</div>
-				<div Map="ecosystem" Title="hr-systems" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9b9" class="stakeholder hr shift">
-					<h4 style="opacity:0" class="nav-heading small">HR Systems</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa58_Frame%209.svg" loading="lazy" alt="An icon of two people and a gear" class="stakeholder-icon"/>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="hr-systems" alt="" class="icon-selected shift"/>
-				</div>
-				<div Map="ecosystem" Title="learners-earners" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9be" class="stakeholder learners shift">
-					<h4 style="opacity:0" class="nav-heading small">Learners and Earners</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa5d_Frame%203.svg" loading="lazy" alt="An icon of two people using a laptop" class="stakeholder-icon"/>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="learners-earners" alt="" class="icon-selected shift"/>
-				</div>
-				<div Map="ecosystem" Title="funders" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9c3" class="stakeholder funders shift">
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4b_Frame%2010.svg" loading="lazy" alt="An icon of a coin" class="stakeholder-icon"/>
-					<h4 style="opacity:0" class="nav-heading small">Funders</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="funders" alt="" class="icon-selected"/>
-				</div>
-				<div Map="ecosystem" Title="supporting-systems" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9c8" class="stakeholder supporting shift">
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa48_Frame%208.svg" loading="lazy" alt="An icon of a heart" class="stakeholder-icon"/>
-					<h4 style="opacity:0" class="nav-heading small">Supporting Systems</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="supporting-systems" alt="" class="icon-selected"/>
-				</div>
-				<div Map="ecosystem" Title="credentialing-organizations" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9cd" class="stakeholder credentialing shift">
-					<h4 style="opacity:0" class="nav-heading small">Credentialing Organizations</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa4f_Frame%205.svg" loading="lazy" alt="An icon of a certificate" class="stakeholder-icon"/>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="credentialing-organizations" alt="" class="icon-selected shift"/>
-				</div>
-				<div Map="ecosystem" Title="data-standards-bodies" data-w-id="3aab1c56-4d0d-3f57-4876-0e4fa2a6e9d2" class="stakeholder standards shift">
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa56_Frame%207.svg" loading="lazy" alt="An icon of a globe with connections and tech symbols" class="stakeholder-icon"/>
-					<h4 style="opacity:0" class="nav-heading small">Data Standards Bodies</h4>
-					<img src="https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64e3ac967b3bf90d2587fa44_Ellipse%2046.svg" loading="lazy" title="data-standards-bodies" alt="" class="icon-selected"/>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>-->
+</div>
 
 
