@@ -4,7 +4,7 @@ title: LER Ecosystem Map
 ---
 
 <div class="container-lg">
-	<div class="row landing top">
+	<div class="row">
 		<div class="col">
 			<div class="stakeholder-map">
 				<img src="./images/stakeholders-center.svg" loading="lazy" alt="A description of the map with instructions to click on the stakeholders to learn more about their roles" class="map-center-image"/>
@@ -59,6 +59,11 @@ title: LER Ecosystem Map
 					<img src="./images/ellipse.svg" loading="lazy" title="data-standards-bodies" alt="" class="icon-selected"/></a>
 				</div>
 			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<div class="div-block-12"></div>
 		</div>
 	</div>
 	<div class="row">
