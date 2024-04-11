@@ -6,6 +6,8 @@ html {
 
 body {
   margin: 0;
+  overflow-x: hidden; 
+  width: 100vw;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -2555,11 +2557,10 @@ textarea.w-input, textarea.w-select {
   margin-top: 2.5rem;
 }
 
-.landing.top {
-  margin-top: 2.5rem;
+/*.landing.top {
+  margin-top: 1.5rem;
   padding-bottom: 10vh;
-  width: 95%;
-}
+}*/
 
 .section-bullet {
 	margin-left:17%;
@@ -3213,7 +3214,7 @@ textarea.w-input, textarea.w-select {
 }*/
 
 .stakeholder.credentialing {
-  top: -3%;
+  top: 1%;
   bottom: auto;
   left: auto;
   right: auto;
@@ -3240,7 +3241,7 @@ textarea.w-input, textarea.w-select {
 
 .stakeholder.standards {
   top: auto;
-  bottom: -3%;
+  bottom: 2%;
   left: auto;
   right: auto;
 }
@@ -3772,9 +3773,10 @@ textarea.w-input, textarea.w-select {
   background-repeat: no-repeat;
   background-size: auto;
   border: 1px #000;
-  margin-top: 8rem;
-  margin-left: 4rem;
-  margin-right: 4rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .div-block-13 {
@@ -3866,7 +3868,7 @@ textarea.w-input, textarea.w-select {
   }
 }
 
-@media screen and (max-width: 991px) {
+/*@media screen and (max-width: 991px) {
   .heading {
     text-align: center;
     text-transform: uppercase;
@@ -3922,13 +3924,13 @@ textarea.w-input, textarea.w-select {
   .mobile-redirect-image {
     max-width: 40%;
   }
-}
+}*/
 
-#w-node-_8d2f2931-98ad-7183-e29c-0bff32e731b1-2587fa3f {
+/*#w-node-_8d2f2931-98ad-7183-e29c-0bff32e731b1-2587fa3f {
   align-self: center;
   justify-self: center;
 }
 
 #w-node-ea696771-6417-d691-526a-fe9a17aa0334-2587fa3f {
   grid-area: 4 / 2 / 5 / 3;
-}
+}*/
