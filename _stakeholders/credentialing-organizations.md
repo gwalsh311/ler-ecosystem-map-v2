@@ -18,6 +18,26 @@ title: LER Ecosystem Map - Credentialing Organizations
 <div class="col-sm-2">
 </div>
 </div>
+{% include action-areas-intro.html %}
+{% if item.action-areas and item.action-areas != '' %}
+{% for item in item.action-areas %}
+{% for action in site.data.action-items-content.actions %}
+{% if action.name == item %}
+<div class="row section-bullet body-text-small action-area">
+<div class="col">
+<h3>{{ action.title }}</h3>
+<p><strong>{{ action.description }}<br/></strong></p>
+{% for item in action.bullets %}
+<ul role="list">
+<li>{{ item }}</li>
+</ul>
+{% endfor %}
+</div>
+</div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% endif %}
 
 <div class="row body-text-medium">
 <div class="col-sm-2">
