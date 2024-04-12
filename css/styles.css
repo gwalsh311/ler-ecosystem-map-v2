@@ -57,6 +57,13 @@ h1 {
   font-size: 2em;
 }
 
+h1.aliceblue {
+  margin: .80em 0;
+  background-color: aliceblue;
+  padding: 10px 10px;
+  font-size: 2em;
+}
+
 mark {
   color: #000;
   background: #ff0;
@@ -584,7 +591,7 @@ p {
 }
 
 blockquote {
-  margin: 20px 0 10px;
+  margin: 1.3em 0 1em;
   padding: 10px 20px;
  /* font-size: 24px;*/
   line-height: 30px;
@@ -592,6 +599,10 @@ blockquote {
   font-weight:300;
   border:2px solid var(--orange);
   border-radius: 10px;
+}
+
+.quote {
+  font-size: 24px;
 }
 
 .quote-description {
@@ -2336,7 +2347,7 @@ textarea.w-input, textarea.w-select {
   margin-top: 20px;
 }
 
-.action-area{
+.action-area {
 	margin-bottom:3rem;
 	background-color: aliceblue;
 	border-radius: 4px;
@@ -2449,7 +2460,7 @@ textarea.w-input, textarea.w-select {
 	/*padding: 0.5rem;
   margin: 1.5rem;*/
   margin: 20px 10px !important;
-  padding: 5px 10px;
+  padding: 5px 5px;
 }
 
 /*.quote{
