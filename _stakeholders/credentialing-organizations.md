@@ -4,8 +4,8 @@ title: LER Ecosystem Map - Credentialing Organizations
 ---
 {% for item in site.data.stakeholders-list.stakeholders %}
 {% if item.name == "Credentialing Organizations" %}
-<div class="row">
-<div class="col-sm-2">
+<div class="row border">
+<div class="col-sm-2 border">
 <img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
 </div>
 <div class="col-sm-8">
@@ -15,7 +15,31 @@ title: LER Ecosystem Map - Credentialing Organizations
 <p><strong>Examples: </strong>{{ item.examples }}</p>
 </div>
 </div>
-<div class="col-sm-2">
+</div>
+
+<div class="row border">
+<div class="col border">
+<div class="div-block-12"></div>
+</div>
+</div>
+<div class="row border">
+<div class="col-sm-9 border">
+<h1>Roles and Workstreams</h1>
+<div class="row">
+{% for section in item.sections %}
+<div class="col-sm-6">
+<h3>{{ section.title }}</h3>
+{% for bullet in section.bullets %}
+<ul role="list">
+<li>{{ bullet }}</li>
+</ul>
+{% endfor %}
+</div>
+{% endfor %}
+</div>
+<div class="row border">
+<div class="col border">
+<div class="div-block-12"></div>
 </div>
 </div>
 {% include action-areas-intro.html %}
@@ -23,7 +47,7 @@ title: LER Ecosystem Map - Credentialing Organizations
 {% for item in item.action-areas %}
 {% for action in site.data.action-items-content.actions %}
 {% if action.name == item %}
-<div class="row section-bullet body-text-small action-area">
+<div class="row ody-text-small">
 <div class="col">
 <h3>{{ action.title }}</h3>
 <p><strong>{{ action.description }}<br/></strong></p>
@@ -38,11 +62,18 @@ title: LER Ecosystem Map - Credentialing Organizations
 {% endfor %}
 {% endfor %}
 {% endif %}
-
-<div class="row body-text-medium">
-<div class="col-sm-2">
 </div>
-<div class="col-sm-4 business-case">
+<div class="col-sm-3">
+<div class="row">
+<div class="col quote">
+{% for quote in item.quote %}
+<blockquote>{{ quote.title }}</blockquote>
+<p>{{ quote.description}}</p>
+{% endfor %}
+</div>
+</div>
+<div class="row business-case">
+<div class="col">
 <h3>Business Case</h3>
 <ul>
 {% for case in item.business-case %}
@@ -50,50 +81,17 @@ title: LER Ecosystem Map - Credentialing Organizations
 {% endfor %}
 </ul>
 </div>
-
-<div class="col-sm-4 business-case">
-<h3>Social Case </h3>
+</div>
+<div class="row business-case">
+<div class="col">
+<h3>Social Case</h3>
 <ul>
 {% for case in item.social-case %}
 <li><strong>{{ case.title }}</strong> - {{ case.description }}</li>
 {% endfor %}
 </ul>
 </div>
-<div class="col-sm-2">
 </div>
 </div>
-
-<div class="row">
-<div class="col-sm-2">
-</div>
-
-<div class="row">
-<div class="col-sm-3"></div>
-<div class="col-sm-6 quote">
-{% for quote in item.quote %}
-<blockquote>{{ quote.title }}</blockquote>
-<p>{{ quote.description}}</p>
-{% endfor %}
-</div>
-<div class="col-sm-3"></div>
-</div>
-
-<div class="row section-bullet">
-
-{% for section in item.sections %}
-<div class="col-sm-5 body-text-medium section-bullet-text">
-<h3>{{ section.title }}</h3>
-<h4>{{ section.subheader}}</h4>
-{% for bullet in section.bullets %}
-
-{{ bullet }}
-
-{% endfor %}
-
-</div>
-
-{% endfor %}
-</div>
-
 {% endif %}
 {% endfor %}

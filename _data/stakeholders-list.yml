@@ -77,6 +77,9 @@ stakeholders:
           - Include support for LERs in admissions systems and decision making processes, expanding prior learning recognition to offer credits for experiences in other settings and institutions
           - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services
           - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum
+    quote:
+      - title: This is a quote
+      - description: this is a quote description
   - name: Data Standards Organizations
     icon: data-standards-bodies.svg
     icon-alt: An icon of a globe with connections and tech symbols
