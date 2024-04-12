@@ -7,8 +7,6 @@ pages:
   - page: LERs Explained
     url: /lers-explained
     subpages:
-      - page: Action Areas
-        url: /action-areas
       - page: Resources
         url: /resources
       - page: Guidance

@@ -5,12 +5,10 @@ title: LER Ecosystem Map - Credentialing Organizations
 {% for item in site.data.stakeholders-list.stakeholders %}
 {% if item.name == "Credentialing Organizations" %}
 <div class="row">
-<div class="col-sm-9">
-<div class="row">
 <div class="col-sm-2">
 <img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
 </div>
-<div class="col-sm-8">
+<div class="col-sm-10">
 <h1>{{ item.name }}</h1>
 <div class="body-text-medium">
 <p><strong>Definition: </strong>{{ item.definition }}</p>
@@ -19,12 +17,11 @@ title: LER Ecosystem Map - Credentialing Organizations
 </div>
 </div>
 
+
+
 <div class="row">
-<div class="col">
-<div class="div-block-11"></div>
-</div>
-</div>
-<h1>Roles and Workstreams</h1>
+<div class="col-sm-9">
+<h1 class="aliceblue">Roles and Workstreams</h1>
 <div class="row">
 {% for section in item.sections %}
 <div class="col-sm-6 body-text-medium">
@@ -37,13 +34,10 @@ title: LER Ecosystem Map - Credentialing Organizations
 </div>
 {% endfor %}
 </div>
-<div class="row">
-<div class="col">
-<div class="div-block-11"></div>
-</div>
-</div>
-{% include action-areas-intro.html %}
+
+
 {% if item.action-areas and item.action-areas != '' %}
+{% include action-areas-intro.html %}
 {% for item in item.action-areas %}
 {% for action in site.data.action-items-content.actions %}
 {% if action.name == item %}
@@ -68,31 +62,27 @@ title: LER Ecosystem Map - Credentialing Organizations
 
 <div class="row">
 <div class="col body-text-medium">
-{% for quote in item.quotes %}
-<blockquote>"{{ quote.text }}" <div class="quote-description">&mdash; {{ quote.description }}</div></blockquote>
-{% endfor %}
+{% if item.quote-text %}
+<blockquote>
+<span class="quote">&ldquo;</span>{{ item.quote-text }}<span class="quote">&rdquo;</span> <div class="quote-description">&mdash; {{ item.quote-description }}</div></blockquote>
+{% endif %}
 </div>
 </div>
 
 <div class="row business-case body-text-medium">
 <div class="col">
 <h3>Business Case</h3>
-<ul>
 {% for case in item.business-case %}
-<li><strong>{{ case.title }}</strong> - {{ case.description }}</li>
+<p><strong>{{ case.title }}</strong> - {{ case.description }}</p>
 {% endfor %}
-</ul>
 </div>
 </div>
 <div class="row business-case body-text-medium">
 <div class="col">
 <h3>Social Case</h3>
-<ul>
 {% for case in item.social-case %}
-<li><strong>{{ case.title }}</strong> - {{ case.description }}</li>
+<p><strong>{{ case.title }}</strong> - {{ case.description }}</p>
 {% endfor %}
-</ul>
-</div>
 </div>
 </div>
 </div>
