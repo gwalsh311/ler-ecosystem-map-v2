@@ -28,6 +28,10 @@ audio:not([controls]) {
   display: none;
 }
 
+.border {
+  border: 2px solid #000;
+}
+
 a {
   background-color: rgba(0, 0, 0, 0);
 }
@@ -50,6 +54,13 @@ dfn {
 
 h1 {
   margin: .67em 0;
+  font-size: 2em;
+}
+
+h1.aliceblue {
+  margin: .80em 0;
+  background-color: aliceblue;
+  padding: 10px 10px;
   font-size: 2em;
 }
 
@@ -580,13 +591,23 @@ p {
 }
 
 blockquote {
-  border-left: 5px solid #e2e2e2;
-  margin: 0 0 20px;
-  padding: 20px 30px;
-  font-size: 24px;
+  margin: 1.3em 0 1em;
+  padding: 10px 20px;
+ /* font-size: 24px;*/
   line-height: 30px;
   font-family: "proxima-nova", sans-serif;
   font-weight:300;
+  border:2px solid var(--orange);
+  border-radius: 10px;
+}
+
+.quote {
+  font-size: 24px;
+}
+
+.quote-description {
+  text-align:right;
+  font-style: italic;
 }
 
 figure {
@@ -2326,7 +2347,7 @@ textarea.w-input, textarea.w-select {
   margin-top: 20px;
 }
 
-.action-area{
+.action-area {
 	margin-bottom:3rem;
 	background-color: aliceblue;
 	border-radius: 4px;
@@ -2433,15 +2454,18 @@ textarea.w-input, textarea.w-select {
   font-weight: 400;
 }
 
-.business-case{
+.business-case {
 	background-color: aliceblue;
-	border-radius: 4px;
-	padding: 3rem;
+	border-radius: 10px;
+	/*padding: 0.5rem;
+  margin: 1.5rem;*/
+  margin: 20px 10px !important;
+  padding: 5px 5px;
 }
 
-.quote{
+/*.quote{
 	margin: 3rem 0;
-}
+}*/
 
 .body-text-medium {
   max-width: none;
@@ -3766,9 +3790,22 @@ textarea.w-input, textarea.w-select {
   justify-content: space-between;
 }
 
+.div-block-11 {
+  height: 1px;
+  background-image: url("../images/Line_section_separation.svg");
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  border: 1px #000;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
 .div-block-12 {
   height: 1px;
-  background-image: url("https://assets-global.website-files.com/64e3ac967b3bf90d2587fa3c/64fb63e0b3e785eec5f8fe6c_Line_section_separation.svg");
+  background-image: url("../images/Line_section_separation.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;

@@ -28,6 +28,8 @@ stakeholders:
         bullets:
           - Provide information and support to learners and earners on how to take advantage of skills-based career paths
           - Offer wraparound career support and mentorship.
+    quote-text: By moving towards a system where individuals and employers can understand the skills an individual has by the credentials they hold, we enhance the power of the LER as an accelerator for skills-based hiring and education practices.
+    quote-description: American Workforce Policy Advisory Board, 2020, p.8
   - name: Credentialing Organizations
     icon: credentialing-organizations.svg
     icon-alt: An icon of a certificate
@@ -50,8 +52,6 @@ stakeholders:
         description: By issuing LERs for both large scale achievements and more granular competencies, learners are better able to curate and market their particular skills and abilities when entering the workforce or seeking high earning careers 
       - title: Leadership as a learner-centered institution
         description: open up access to quality learning opportunities to more learners by mitigating barriers to entry
-      - title: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do
-        description: Angela Consani, Co-Founder & CEO, Bioscience Core Skills Institute
     sections:
       - title: Developing
         subheader: Researching & creating the LER solutions
@@ -77,6 +77,8 @@ stakeholders:
           - Include support for LERs in admissions systems and decision making processes, expanding prior learning recognition to offer credits for experiences in other settings and institutions
           - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services
           - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum
+    quote-text: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do.
+    quote-description: Angela Consani, Co-Founder & CEO, Bioscience Core Skills Institute
   - name: Data Standards Organizations
     icon: data-standards-bodies.svg
     icon-alt: An icon of a globe with connections and tech symbols
@@ -105,6 +107,8 @@ stakeholders:
         bullets: 
           - Support the use of open standards by all types of systems, including government and open source systems as well as commercial and proprietary systems
           - Provide test suites and other mechanisms for  technology providers to demonstrate that their products conform to specific standards and demonstrate interoperability
+    quote-text: LER specifications are important, because they represent years of debate and consensus-building, among an ecosystem of stakeholders. It's not that the specifications are implying that this is the one true way of doing advancement records, it's that enough participants have agreed on one particular approach, to make it an excellent starting point.
+    quote-description: Dmitri Zagidulin, Co-Chair, W3C Verifiable Credentials for Education Task Force
   - name: Employers
     icon: employers.svg
     icon-alt: An icon of a person in front of a business
@@ -225,6 +229,8 @@ stakeholders:
         bullets:
           - Champion data-driven insights on impact and outcomes and incentivize adoption across the workforce
           - Track exchange and/or credential transfers
+    quote-text: Governance is the method that we use to make meaningful signal out of noise. TLN brings together our governing body to propose policies that will govern how learners, issuers and service providers will interact with our network, establishing quality, predictability and plain-language explanations that describe what we’re doing to enable verifiable credentialing.
+    quote-description: Kate Giovacchini, Executive Director, Trusted Learner Network and ASU Pocket
   - name: HR Systems
     icon: hr-systems.svg
     icon-alt: An icon of two people and a gear
@@ -299,6 +305,8 @@ stakeholders:
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
           - Submit LERs as part of application processes for jobs and education opportunities  
+    quote-text: 23.9% of participants indicated that during the application and/or interview processes, they believed that they had endured various types of discrimination because of their education levels.
+    quote-description: Inclusive Design Principles for Learning and Employment Records&colon; Co-Designing for Equity — Digital Promise, 2022
   - name: LER Solution Providers
     icon: solution-providers.svg
     icon-alt: An icon of a lightbulb
@@ -365,4 +373,6 @@ stakeholders:
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
           - Develop competency-mapping efforts across HR, workforce development, and education technology organizations
-          - Carry out outcomes tracking on effectiveness   
+          - Carry out outcomes tracking on effectiveness 
+    quote-text: 70+ MILLION adults in the U.S. are skilled through community college, workforce training, bootcamps, certificate programs, military service or on-the-job learning, rather than through a bachelor’s degree. This group is majority Black, Hispanic, essential workers and veterans.
+    quote-description: Opportunity@Work
