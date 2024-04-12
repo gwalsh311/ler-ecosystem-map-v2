@@ -50,8 +50,6 @@ stakeholders:
         description: By issuing LERs for both large scale achievements and more granular competencies, learners are better able to curate and market their particular skills and abilities when entering the workforce or seeking high earning careers 
       - title: Leadership as a learner-centered institution
         description: open up access to quality learning opportunities to more learners by mitigating barriers to entry
-      - title: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do
-        description: Angela Consani, Co-Founder & CEO, Bioscience Core Skills Institute
     sections:
       - title: Developing
         subheader: Researching & creating the LER solutions
@@ -77,9 +75,9 @@ stakeholders:
           - Include support for LERs in admissions systems and decision making processes, expanding prior learning recognition to offer credits for experiences in other settings and institutions
           - Adopt new practices to use LERs in the learning journey, including but not limited to, the curriculum, advising, scholarships and career services
           - Track data on effectiveness for institutions and learners — including competencies, skills and their associated rubrics within the curriculum
-    quote:
-      - title: This is a quote
-      - description: this is a quote description
+    quotes: 
+      - text: LERs are so important to students I work with; stop considering people for what they look like, where they went to school… just consider what they can do.
+        description: Angela Consani, Co-Founder & CEO,Bioscience Core Skills Institute
   - name: Data Standards Organizations
     icon: data-standards-bodies.svg
     icon-alt: An icon of a globe with connections and tech symbols
