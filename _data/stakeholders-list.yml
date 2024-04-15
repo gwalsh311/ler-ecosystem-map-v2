@@ -7,7 +7,11 @@ stakeholders:
     icon-alt: An icon of a navigation path
     url: career-navigators
     action-areas: 
-      - shifting
+      - title: supporting
+        bullets:
+          - Contribute a workforce development perspective to pilots and implementations
+          - Provide outreach, education, and resources to support learners and earners’ understanding of their credential data and how to pursue skills-based career pathways.
+          - Identify and implement tools and supports for learners and earners to discover and apply for jobs and opportunities using LERs
     definition: Individuals or organizations that provide guidance and support to individuals resulting in economic mobility
     examples: Workforce boards, nonprofit organizations, advocacy, and workforce development organizations, career and guidance counselors, academic advisors, college access networks, and professional development coaches
     sections:
@@ -30,14 +34,40 @@ stakeholders:
           - Offer wraparound career support and mentorship.
     quote-text: By moving towards a system where individuals and employers can understand the skills an individual has by the credentials they hold, we enhance the power of the LER as an accelerator for skills-based hiring and education practices.
     quote-description: American Workforce Policy Advisory Board, 2020, p.8
+    business-case:
+      - title: Potential for Improved Impact
+        description:  Increased income and job prospects for individuals may lead to a reduced reliance on social programs and better contribution to economic growth and stability
+      - title: Aligned Progress
+        description: Individual development and improvement is in alignment with the kinds of organizational strategies and development goals common amongst Career Navigators.
+    social-case:
+      - title: Improved Quality of Life for Individuals
+        description: Increased social connections and opportunities for personal and professional growth. Individual improvement leads to strengthened communities and reduced inequality.
+      - title: Long-term Societal Benefits
+        description: Increased economic mobility helps reduce poverty rates, improve health and increases social cohesion. 
   - name: Credentialing Organizations
     icon: credentialing-organizations.svg
     icon-alt: An icon of a certificate
     url: credentialing-organizations
     action-areas:
-      - defining
-      - gathering
-      - shifting
+      - title: promoting
+        bullets:
+          - Partner in research and pilots — to better understand the return on investment for learners, educators, and administrators 
+          - Align curriculum and learning outcomes to learner and employer needs
+      - title: building
+        bullets:
+            - Connect supply and demand by increasing the number of verifiable credentials issued and guiding learners and earners in their use of LERs to apply for jobs and other opportunities
+            - Co-design credentials with local employers, to ensure matching of learning outcomes with the skills desired in the workforce
+      - title: gathering
+        bullets:
+          - Engage stakeholders across the organization, including leadership, faculty, student affairs, registrars, continuing education, career counselors, etc. in tracking data on effectiveness of LERs for institutions and learners
+          - Align curriculum and learning outcomes to learner and employer needs and develop metrics for measuring learner success along the learner journey has predictive validity 
+      - title: supporting
+        bullets: 
+          - Explore competency-based approaches to designing curriculum, learning models and assessment 
+          - Develop policies and practices to validate and document skills, use skills in credit for prior learning, admissions, and audits for program completion.
+          - Define governance and infrastructure to ensure quality assurance of issued credentials (influenced by industry standards, accreditation bodies, local employers and educators).
+          - Work with policymakers (including input from Commonwealth countries and EU) on qualifications frameworks for transparent learning progressions.
+          - Issue digital versions of credentials that are based on open standards, ensuring that credentials are interoperable across the various systems a learner may encounter in the learning and career journey. 
     definition: Entities including institutions, organizations, individuals, or training providers that provide evidence of skills or achievements for a learner. These include but are not limited to primary, secondary, post-secondary, or tertiary education providers, industry credentialing organizations, unions, employers (small, medium, and large enterprise), governments, licensing boards, private or community training providers, online education providers, and workplace training or education programs. Within the LER Ecosystem, an entity that provides a credential can be referred to as an issuer
     examples: Colleges and universities, union apprenticeships, industry association for manufacturing or early child care, state licensure associations, boards of nursing, education, and cosmetology etc., NGOs or non-profits, online learning providers
     business-case:
@@ -109,14 +139,44 @@ stakeholders:
           - Provide test suites and other mechanisms for  technology providers to demonstrate that their products conform to specific standards and demonstrate interoperability
     quote-text: LER specifications are important, because they represent years of debate and consensus-building, among an ecosystem of stakeholders. It's not that the specifications are implying that this is the one true way of doing advancement records, it's that enough participants have agreed on one particular approach, to make it an excellent starting point.
     quote-description: Dmitri Zagidulin, Co-Chair, W3C Verifiable Credentials for Education Task Force
+    business-case:
+      - title: Technical Interoperability
+        description: Secure and interoperable exchange of learning and employment records leading to increased accessibility. Syntactic, structural, and semantic similarity to help define and develop open data standards
+      - title: Efficiency and Equitable Ecosystem
+        description: More efficient and equitable learning and employment ecosystem for individual learners as well as service providers. 
+      - title: Data Standards
+        description: Developing open standards that empower learners and workers with data about their knowledge, skills, and abilities
+    social-case: 
+      - title: Equity and Efficiency
+        description: Opening up new ways to match people to work, learning, and resources as well as streamlining data usage in hiring
+      - title: Shared Access
+        description: Collaboration among states, institutions, employers, and organizations to build a more efficient, equitable, and collaborative learning and employment ecosystem
   - name: Employers
     icon: employers.svg
     icon-alt: An icon of a person in front of a business
     url: employers
     action-areas: 
-      - defining
-      - building
-      - shifting
+      - title: promoting
+        bullets:
+          - Partner in research and pilots that collect data and support the alignment of skills to business needs and systems integrations
+          - Promote employer use of digital credentials and skills data in hiring and for recognition of on the job training and upskilling
+      - title: building
+        bullets: 
+          - Partner in research and pilots on data collection, alignment of skills to business needs, change management and systems integration
+          - Work with HR Systems including HRIS and ATS to increase support for integration of data from LERs and train hiring managers and supervisors on how to use LERs and skills-based approaches.
+          - Make a commitment to skills-based talent practices, including how LERs and other skills signals are used in decision making about hiring and advancement at all levels of the organization
+          - Standardize the development of skills-based, bias-free job descriptions and postings
+          - Work with workforce development organizations and other community-centered organizations to build a skills-based pipeline.
+          - Track metrics regarding successful placement and data on effectiveness for company and users. 
+      - title: gathering
+        bullets:
+          - Track metrics that examine the efficacy of LERs. These can include the time and cost to fill jobs, employee turnover and vertical or horizontal mobility within the workplace, and other indicators of better matching and hiring of candidates and positions.
+      - title: supporting
+        bullets:
+          - Adopt skills based approaches to training, talent development, and retention by issuing LERs to document employee skills development and achievements throughout their employment 
+          - Train hiring managers on recognizing LERs issued for both degrees and diplomas as well as more granular achievements, like professional certificates, non-degree bearing coursework, or previous career or life experiences
+          - Consider removing bachelor’s degree requirements or other specific proxies where possible, opting for skill-based matching of open roles with applicants with the desired skill set.
+          - Collaborate with workforce development organizations education and training centers to codesign a skills-based talent pipeline.
     definition: An individual, company or organization that pays for work. 
     examples: Large, medium and small enterprise businesses or companies, government or other agencies, non-profits or individuals.
     business-case:
@@ -159,7 +219,10 @@ stakeholders:
     icon: funders.svg
     icon-alt: An icon of a coin 
     url: funders
-    action-area:   
+    action-areas:   
+      - title: gathering
+        bullets: 
+          - Ensure participation of a broad range of institutions in particular, including community colleges and workforce training, in pilots.
     definition: Those who aim to financially support activities and initiatives pertaining to LERs   
     examples: Foundations, corporate sponsors, and philanthropic individuals and organizations
     sections:
@@ -181,16 +244,37 @@ stakeholders:
       - title: Adopting 
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
-          - Document impact by funding data collection, research and analysis in order to better understand the efficacy, economic advantages, and opportunities to increase the impact of LERs
+          - Document impact by funding data collection, research and analysis in order to better understand the efficacy, economic advantages, and opportunities to increase the impact of LERs   
+    business-case:
+      - title:
+        description: 
+      - title:
+        description:
+      - title:
+        description:
+    social-case: 
+      - title:
+        description:
+      - title:
+        description:
+    quote-text: This work is helping funders like Walmart promote the kind of meaningful innovation that can prepare millions of Americans for the future of work. LERs are the backbone of a skills-based system and it’s exciting to support efforts that will drive broader adoption.
+    quote-description: Sean Murphy, Director, Walmart
   - name: Governance
     icon: governance.svg
     icon-alt: An icon of two people in front of a government building
     url: governance      
     action-areas: 
-      - defining
-      - building
-      - gathering
-      - shifting
+      - title: promoting
+        bullets:
+          - Develop sustainable business and governance models that establish clear roles for leading and implementing policies that center equity and economic opportunity
+          - Support state systems in the process of linking employment, credentials, and skills data
+          - Advocate for change towards skills-based hiring and adoption of equitable solutions
+          - Address data infrastructure policy&colon; integrity, ownership, transparency, protection and privacy
+      - title: building
+        bullets:
+          - Ensure state systems can link employment, credentials and skills data and connect protocols and set up policies that center equity and economic opportunity.
+          - Champion data-based insights on success and incentivize adoption across the workforce
+          - Address data infrastructure policy&colon; integrity, ownership, protection and privacy
     definition: Federal, state, and local governments as well as other organizations that develop and implement policies and frameworks around education and workforce across institutions that support credentialing and workforce alignment and promote advancement for their constituencies; non-governmental entities overseeing accreditation; communities, consortia and networks that work to align LER workstreams     
     examples: Boards, ministries, and departments of education and labor; legislators, accreditation bodies, issuer registries, regulating organizations. 
     business-case:
@@ -236,10 +320,20 @@ stakeholders:
     icon-alt: An icon of two people and a gear
     url: hr-systems
     action-areas: 
-      - defining
-      - building
-      - gathering
-      - shifting
+      - title: promoting
+        bullets:
+          - Advocate for the use of open standards in the development of HR Information Systems and tools 
+          - Identify opportunities and challenges in using LERs in hiring, onboarding and employee tracking systems 
+      - title: building
+        bullets:
+          - Build support for LERs within existing ATS/HRIS systems, and make it possible to match skills profiles to open positions
+      - title: gathering
+        bullets:
+          - Track metrics that examine the efficacy of LERs. These can include the time and cost to fill jobs, employee turnover and vertical or horizontal mobility within the workplace, and other indicators of better matching and hiring of candidates and positions.
+      - title: supporting
+        bullets:
+          - Build support for LERs into hiring systems, and make it possible to match skills profiles to open positions.
+          - Process LER data in accordance with how applicants want their information to be shared, aggregated and re-used 
     definition: Applications and tools designed and sold to organizations whose Human Resource professionals manage and track employee recruitment, onboarding and performance
     examples: Human Resources Managers and Associates, Human Resources Information Systems (HRIS) and Applicant Tracking Systems (ATS) developers and users
     sections:
@@ -264,15 +358,37 @@ stakeholders:
       - title: Adopting 
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
-        - Track data on effectiveness of LERs for applicants and employers   
+        - Track data on effectiveness of LERs for applicants and employers  
+    business-case:
+      - title: Better Hiring Experiences
+        description: Promoting the use of open standards that protect learner data and promote interoperability can lead to a more efficient and equitable learning and employment ecosystem
+      - title: Efficiency and Accuracy
+        description:  Incorporating LERs into HR systems allows for the seamless integration of employee data. This integration eliminates the need for manual data entry and reduces the risk of errors, resulting in increased efficiency and accuracy in HR processes
+      - title: Better Decision Making
+        description: organizations can make more informed decisions regarding talent management, training and development, and succession planning.
+    social-case: 
+      - title: Fairness and Non-Discrimination
+        description: Mitigate biases and promote fairness by focusing on job-related qualifications and work performance.
+      - title: Transparency and Accountability
+        description: Candidates' skills, qualifications, and experiences are documented and verified, providing a clear and objective basis for hiring decisions.
+      - title: Efficiency and Effectiveness
+        description: Make more informed hiring decisions, matching candidates' skills and qualifications with job requirements. This can reduce the time and resources spent on evaluating candidates and increasing the likelihood of successful job placements.
   - name: Learners & Earners
     icon: learners-earners.svg
     icon-alt: An icon of two people using a laptop
     url: learners-earners
     action-areas: 
-      - defining
-      - gathering
-      - shifting
+      - title: promoting
+        bullets:
+          - Participate in research and pilot efforts, providing critical perspectives that ensure technology, tools, and systems unlock opportunities
+      - title: gathering
+        bullets: 
+          - Contribute experience and feedback to credential issuers and verifiers, considering how and where LERs have led to opportunities across the learning journey. 
+          - Manage and share credentials using LER technologies including mobile and web wallets
+      - title: supporting
+        bullets:
+          - Ask institutions to issue their credentials as LERs and request that they familiarize themselves on skills based approaches to learning and career advancement
+          - Share experiences with using LERs with friends, classmates, educators, and colleagues on social media channels and learning communities
     definition: Individuals of any age engaging in learning and work through traditional or non-traditional means
     examples: College or university students, professionals learning on the job or through training programs, individuals pursuing skills-building life experiences
     business-case:
@@ -307,12 +423,16 @@ stakeholders:
           - Submit LERs as part of application processes for jobs and education opportunities  
     quote-text: 23.9% of participants indicated that during the application and/or interview processes, they believed that they had endured various types of discrimination because of their education levels.
     quote-description: Inclusive Design Principles for Learning and Employment Records&colon; Co-Designing for Equity — Digital Promise, 2022
-  - name: LER Solution Providers
-    icon: solution-providers.svg
+  - name: LER Technology Providers
+    icon: technology-providers.svg
     icon-alt: An icon of a lightbulb
-    url: solution-providers
+    url: ler-technology-providers
     action-areas:
-      - defining
+      - title: promoting
+        bullets: 
+          - Implement software that issues, stores, shares, and/or verifies and consumes LERs
+          - Contribute to the development of open standards that enable interoperability of credentials across credentialing organizations and employers and promote credential and skills transparency and individual data control
+          - Develop resources and informative materials to help issuers, learners and employers better understand how to effectively use LERs 
     definition: Businesses and organizations, vendors and non-profit organizations which develop technology solutions, tools, and infrastructure for issuing, storing, sharing, or verifying LERs. 
     examples: Web-hosted badging platforms, verifiable credential infrastructure, microservices, and issuer tool providers, digital wallet providers, software developers, identity solution providers 
     business-case:
@@ -350,10 +470,28 @@ stakeholders:
     icon-alt: An icon of a heart
     url: supporting-systems
     action-areas: 
-      - gathering
-      - shifting
+      - title: gathering
+        bullets:
+          - Participate in reference implementations that track effectiveness of LERs and disseminate findings
+          - Develop resources and educational materials including models and frameworks for issuers and employers and guidance for learners on how to effective manage and share credentials to their advantage 
+      - title: supporting
+        bullets:
+          - Develop competency-mapping efforts across HR, workforce development and education technology organizations
+          - Conduct market research that identities industries and communities who could benefit from shifting to a skills based system and support implementations and pilots that aim to promote economic mobility through LERs
     definition: Entities or networks promoting livelihoods and economic mobility
     examples: Research and advocacy groups, think tanks and community organizations, intermediaries and implementation partners 
+    business-case:
+      - title: Data-Driven Decision-Making
+        description:  Leverage this data to inform evidence-based decision-making, policy development, and resource allocation. By understanding the dynamics of livelihoods and economic mobility, stakeholders can design targeted interventions and initiatives that address specific needs and promote sustainable economic growth
+      - title: Enhanced Opportunities
+        description: Individuals can present a comprehensive and credible profile to potential employers or training providers, increasing their access to employment opportunities, entrepreneurship programs, and skill development initiatives
+      - title: Improved Matching of Skills and Opportunities
+        description: Entities and networks can facilitate more accurate and efficient matching of individuals with suitable job openings, training programs, and economic opportunities. 
+    social-case: 
+      - title: Promoting Equity and Inclusion
+        description: Mitigate biases and promote fairness in the hiring process by focusing on job-related qualifications and skills rather than irrelevant personal characteristics.
+      - title: Enhancing Transparency and Accountability
+        description:  Transparency helps build trust between employers and candidates and ensures that hiring decisions are based on merit.
     sections: 
       - title: Developing
         subheader: Researching & creating the LER solution 

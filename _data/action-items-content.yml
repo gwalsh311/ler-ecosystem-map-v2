@@ -1,39 +1,15 @@
 #content that populates action items page
 
 actions:
-  - name: defining
-    title: Defining Value Propositions
-    description: Strengthen employer demand and capacity for LERs.
-    bullets:
-      - Identify how using LERs is different from current practice, and how LER’s can help stakeholders advance their existing goals/agendas.
-      - Consider variation within stakeholder groups (e.g. SMEs versus large corporations, post-secondary institutions vs professional certification providers).
-      - Define metrics of success, test the messaging with stakeholders, and refine</li></ul><ul role="list"><li>Add data points to convert propositions into value statements</li></ul><ul role="list"><li>Use the process to build momentum and find champions for LERs — prioritize employers, learners, earners, and state governance.
-      - Add data points to convert propositions into value statements.
-      - Use the process to build momentum and find champions for LERs — prioritize employers, learners, earners, and state governance.
+  - name: promoting
+    title: Promoting Adoption
+    description: Identify the advantages of using LERs, as compared to current practices, towards stakeholder goals and agendas. Define metrics for success and develop data driven value propositions. 
   - name: building
     title: Building Employer Demand
-    description: Include key stakeholder groups in the development of compelling value propositions that demonstrate the value of LERs.
-    bullets:
-      - Work with HR systems and ATS systems to increase support for integration of data from LERs.
-      - Connect supply and demand by increasing the number of verifiable credentials issued by education providers, and supporting learners and earners in their use of LERs to apply for jobs and other opportunities.
-      - Engage workforce development and other support systems, to widen the pipeline of skills-based talent.
-      - Demonstrate the value of LERs in up/reskill pilots with current employees.
-      - Pilot and scale the issuing of employment records to employees.
+    description: Scale LER issuing and increase employer demand and capacity by supporting integration with existing systems and demonstrating usability and value.
   - name: gathering
     title: Gathering Data on Impact
-    description: Define success metrics and collect data on impact across all workstreams to answer the key question&colon; How do we know it’s working?
-    bullets:
-      - Collect empirical data that proves out the value propositions for LERs, relevant to each stakeholder pain points or opportunities.
-      - For learner and earner, this could include demonstrating how LERs can lead to great access to good jobs and other opportunities, considering the entire set of skills and abilities they have earned through education, work, and life experiences.
-      - For employers, major impact metrics would demonstrate better access to a skilled talent pool, show reduced time to fill job roles, improved quality of candidates hired (i.e., better fit), and reduced cost to fill jobs, and ability to predict on-the-job success.
-      - Overall, gather data to show how LERs assist in removing barriers to education and employment.
-  - name: shifting
-    title: Shifting to a Skills-Based System 
-    description: Make sure that the system we’re building supports skills-based hiring.
-    bullets:
-      - Holistically support transformation to a skills-based system of learning, earning and career discovery.
-      - Offer skills-based language and education for all key stakeholders (including learners and earners, employers, HR systems, etc.).
-      - Remove requirements for bachelor’s degrees where they are not needed.
-      - Develop effective skills-based matching for open roles to help employers replace other ways to assess job-fit.
-      - Expand data systems to enable states and other major stakeholders to link employment, credentials and skills data.
-      - Build state-level competency models to inform LERs and job requirements.
+    description: How do we know LERs are effective in unlocking opportunities for learners and streamlining processes for employers and educators? Stakeholders across the ecosystem must collect empirical data that confirms value statements about LERs and identifies areas for improvement in work streams. 
+  - name: supporting
+    title: Support Degree and Skills Based Systems
+    description: LERs can be issued for large scale achievements like diplomas and degrees or for more granular ones like courses or even individual skills and competencies. The ideal LER Ecosystem will support recognition of learning and abilities obtained through both traditional and skills-based systems. 
