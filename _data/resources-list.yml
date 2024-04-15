@@ -2,39 +2,33 @@
 #maybe share this with T3? They may have a list too
 
 resources:
-  - title: T3 Network Hub
-    author: US Chamber of Commerce Foundation
-    description: 
-    url: http://t3networkhub.org/
-  - title: Building a Skills Based Marketplace
-    author: JFFLabs
-    description: 
-    url: https://info.jff.org/hubfs/Digital%20Wallet%20Market%20Scan/Market-Scan-Digital-Wallet-040122-vF.pdf
-  - title: Last Mile Report
-    author: Digital Credentials Consortium
-    description: 
-    url: https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf
-  - title: Going Digital&colon; How LERs shape access to quality education and jobs
-    author: Brookings Institution
-    description: 
-    url: https://www.brookings.edu/research/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
-  - title: LERs Action Guide
-    author: Credential Engine
-    description: 
-    url: https://credentialengine.org/wp-content/uploads/2022/12/Formatted-External-Review-of-Credential-Engine-Learning-and-Employment-Records-Action-Guide-1-1.pdf
-  - title: Tear the Paper Ceiling
-    author: Opportunity@Work
-    description: 
-    url: https://www.tearthepaperceiling.org/
-  - title: Alabama Talent Playbook
-    author: 
-    description: 
-    url: https://www.talentplaybook.org/
-  - title: Interoperable Learning & Employment Records&#x3b; The 7 Principles of LERs and a Roadmap to Implementation
-    author: Competency-based Education Network
-    description:
-    url: https://www.c-ben.org/wp-content/uploads/2024/03/CBEN-24-008-Interoperable-Learning-4.pdf
-  - title: Making Sense of the Key Data Standards for Verifiable LERs
-    author: Digital CRedentials Consortium
-    description: Short white paper introducing verifiable LERs, standards, and vocabularies.
-    url: https://digitalcredentials.mit.edu/docs/DCC-Making-Sense-of-Key-Data-Standards-for-Verifiable-LERs.pdf
+  - name: General Information About LERs
+    sites:
+      - title: The Alabama Talent Playbook
+        author: Alabama Talent Triad
+        url: https://www.talentplaybook.org/
+      - title: Credentialing Everything&colon; A Primer on Learning and Employment Records and Digital Wallets
+        author: Getting Smart
+        url: https://www.brookings.edu/articles/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
+      
+      - title: Last Mile Report
+        author: Digital Credentials Consortium
+        url: https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf
+      - title: Going Digital&colon; How LERs shape access to quality education and jobs
+        author: Brookings Institution
+        url: https://www.brookings.edu/research/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
+      - title: LERs Action Guide
+        author: Credential Engine
+        url: https://credentialengine.org/wp-content/uploads/2022/12/Formatted-External-Review-of-Credential-Engine-Learning-and-Employment-Records-Action-Guide-1-1.pdf
+      - title: Tear the Paper Ceiling
+        author: Opportunity@Work
+        url: https://www.tearthepaperceiling.org/
+      - title: Alabama Talent Playbook
+        author: 
+        url: https://www.talentplaybook.org/
+      - title: Interoperable Learning & Employment Records&#x3b; The 7 Principles of LERs and a Roadmap to Implementation
+        author: Competency-based Education Network
+        url: https://www.c-ben.org/wp-content/uploads/2024/03/CBEN-24-008-Interoperable-Learning-4.pdf
+      - title: Making Sense of the Key Data Standards for Verifiable LERs
+        author: Digital Credentials Consortium
+        url: https://digitalcredentials.mit.edu/docs/DCC-Making-Sense-of-Key-Data-Standards-for-Verifiable-LERs.pdf

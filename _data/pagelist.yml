@@ -7,6 +7,10 @@ pages:
   - page: LERs Explained
     url: /lers-explained
     subpages:
+      - page: What Are LERs?
+        url: /what-are-lers
+      - page: How do We Use LERs?
+        url: /how-do-we-use-lers
       - page: Resources
         url: /resources
       - page: Guidance
