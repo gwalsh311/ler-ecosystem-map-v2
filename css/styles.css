@@ -396,6 +396,9 @@ html[data-w-dynpage] [data-w-cloak] {
   padding-bottom: 1.5rem;
 }
 
+.cc-by {
+  margin-top: 3rem;
+}
 /**********************/
 /*     Navigation     */
 /**********************/
@@ -3645,13 +3648,12 @@ textarea.w-input, textarea.w-select {
   justify-content: flex-end;
 }
 
-.footer-images {
-  grid-row-gap: 5vh;
+/*  grid-row-gap: 5vh;
   flex-direction: column;
   align-items: center;
   margin-top: 8vw;
   display: flex;
-}
+}*/
 
 .read-more-title-div {
   flex-direction: column;

@@ -14,8 +14,8 @@ title: LER Ecosystem Map
 					<img src="./images/ellipse.svg" loading="lazy" title="employers" alt="" class="icon-selected"/></a>
 				</div>
 				<div class="stakeholder solutions">
-					<a href="stakeholder/solution-providers"><img src="./images/solution-providers.svg" loading="lazy" alt="An icon of a lightbulb" class="stakeholder-icon"/>
-					<h4 class="nav-heading small">LER Solution Providers</h4>
+					<a href="stakeholder/ler-technology-providers"><img src="./images/technology-providers.svg" loading="lazy" alt="An icon of a lightbulb" class="stakeholder-icon"/>
+					<h4 class="nav-heading small">LER Technology Providers</h4>
 					<img src="./images/ellipse.svg" loading="lazy" title="ler-solutions-providers" alt="" class="icon-selected"/></a>
 				</div>
 				<div class="stakeholder governance">
