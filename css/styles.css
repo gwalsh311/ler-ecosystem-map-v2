@@ -392,6 +392,10 @@ html[data-w-dynpage] [data-w-cloak] {
   display: inline-block !important;
 }
 
+.ler-use-row {
+  padding-bottom: 1.5rem;
+}
+
 /**********************/
 /*     Navigation     */
 /**********************/
