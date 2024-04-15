@@ -3,7 +3,7 @@ layout: stakeholder
 title: LER Ecosystem Map - LER Solution Providers
 ---
 {% for item in site.data.stakeholders-list.stakeholders %}
-{% if item.name == "LER Solution Providers" %}
+{% if item.name == "LER Technology Providers" %}
 <div class="row">
 <div class="col-sm-2">
 <img class="w-100" src="../images/{{ item.icon }}" loading="lazy" alt="{{ item.icon-alt }}"/>
@@ -40,14 +40,14 @@ title: LER Ecosystem Map - LER Solution Providers
 {% include action-areas-intro.html %}
 {% for item in item.action-areas %}
 {% for action in site.data.action-items-content.actions %}
-{% if action.name == item %}
+{% if action.name == item.title %}
 <div class="row body-text-medium">
 <div class="col">
 <h3>{{ action.title }}</h3>
-<p><strong>{{ action.description }}<br/></strong></p>
-{% for item in action.bullets %}
+<p>{{ action.description }}<br/></p>
+{% for bullet in item.bullets %}
 <ul role="list">
-<li>{{ item }}</li>
+<li>{{ bullet }}</li>
 </ul>
 {% endfor %}
 </div>

@@ -40,14 +40,14 @@ title: LER Ecosystem Map - Data Standards Bodies
 {% include action-areas-intro.html %}
 {% for item in item.action-areas %}
 {% for action in site.data.action-items-content.actions %}
-{% if action.name == item %}
+{% if action.name == item.title %}
 <div class="row body-text-medium">
 <div class="col">
 <h3>{{ action.title }}</h3>
-<p><strong>{{ action.description }}<br/></strong></p>
-{% for item in action.bullets %}
+<p>{{ action.description }}<br/></p>
+{% for bullet in item.bullets %}
 <ul role="list">
-<li>{{ item }}</li>
+<li>{{ bullet }}</li>
 </ul>
 {% endfor %}
 </div>
@@ -58,6 +58,7 @@ title: LER Ecosystem Map - Data Standards Bodies
 {% endif %}
 </div>
 
+
 <div class="col-sm-3">
 
 <div class="row">
@@ -66,6 +67,23 @@ title: LER Ecosystem Map - Data Standards Bodies
 <blockquote>
 <span class="quote">&ldquo;</span>{{ item.quote-text }}<span class="quote">&rdquo;</span> <div class="quote-description">&mdash; {{ item.quote-description }}</div></blockquote>
 {% endif %}
+</div>
+</div>
+
+<div class="row business-case body-text-medium">
+<div class="col">
+<h3>Business Case</h3>
+{% for case in item.business-case %}
+<p><strong>{{ case.title }}</strong> - {{ case.description }}</p>
+{% endfor %}
+</div>
+</div>
+<div class="row business-case body-text-medium">
+<div class="col">
+<h3>Social Case</h3>
+{% for case in item.social-case %}
+<p><strong>{{ case.title }}</strong> - {{ case.description }}</p>
+{% endfor %}
 </div>
 </div>
 </div>

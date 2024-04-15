@@ -40,14 +40,14 @@ title: LER Ecosystem Map - Governance
 {% include action-areas-intro.html %}
 {% for item in item.action-areas %}
 {% for action in site.data.action-items-content.actions %}
-{% if action.name == item %}
+{% if action.name == item.title %}
 <div class="row body-text-medium">
 <div class="col">
 <h3>{{ action.title }}</h3>
-<p><strong>{{ action.description }}<br/></strong></p>
-{% for item in action.bullets %}
+<p>{{ action.description }}<br/></p>
+{% for bullet in item.bullets %}
 <ul role="list">
-<li>{{ item }}</li>
+<li>{{ bullet }}</li>
 </ul>
 {% endfor %}
 </div>
