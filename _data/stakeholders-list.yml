@@ -246,17 +246,15 @@ stakeholders:
         bullets:
           - Document impact by funding data collection, research and analysis in order to better understand the efficacy, economic advantages, and opportunities to increase the impact of LERs   
     business-case:
-      - title:
-        description: 
-      - title:
-        description:
-      - title:
-        description:
+      - title: Supporting efficient exchange of learner data
+        description: investing in social enterprises and organizations that promote interoperability and data privacy leads to a more efficient, secure, and equitable education and employment ecosystem
+      - title: Improving skills based hiring
+        description: funding initiatives that focus on data standards and interoperability can contribute to improved skills-based hiring and advancement opportunities
     social-case: 
-      - title:
-        description:
-      - title:
-        description:
+      - title: Empowering learners
+        description: Funding social enterprises and initiatives that protect learner data and promote interoperability can address inequitable workforce development practices and empower learners and workers with data about their knowledge, skills, and abilities
+      - title: Economic mobility
+        description: by collaborating with governments, institutions, employers, and organizations to promote the use of LERs and data standards, funders can cultivate economic mobility
     quote-text: This work is helping funders like Walmart promote the kind of meaningful innovation that can prepare millions of Americans for the future of work. LERs are the backbone of a skills-based system and it’s exciting to support efforts that will drive broader adoption.
     quote-description: Sean Murphy, Director, Walmart
   - name: Governance
@@ -291,28 +289,24 @@ stakeholders:
       - title: Developing 
         subheader: Researching & creating the LER solution
         bullets:
-          - Identify and engage with the ecosystem of state/ federal governance that implements relevant policies
-          - Develop policies related to the use and adoption of LERs at various levels of government, and including data infrastructure questions related to integrity, ownership, protection and privacy
-          - Expand capability of state systems to gather and link employment-, credential-, and skills- related data.
-          - Center equitable access to economic opportunity in governance processes and policies
-          - Engage with employers to clarify the benefits of LER systems across all stakeholders
-          - Advocate for change (towards skills-based hiring and adoption of solutions that enable more equitable access to opportunities)
-          - Develop sustainable business and governance models.
+          - Identify and engage with state and federal government agencies that implement relevant policies expanding capability of state systems to gather and link employment, credential, and skills related data
+          - Convene stakeholder groups to align on goals and work streams and lead discussions around the formation of trust across with and across networks
+          - Develop and implement comprehensive frameworks and policies that promote the effective use of LERs in ways that unlock opportunities for learners and earners
       - title: Issuing
         subheader: Issuing verifiable LERs to learners & earners
         bullets:
-          - Ensure universal access to LER solutions
-          - Work with education providers and issuers on qualifications frameworks
+          - Work with education providers and issuers on developing qualifications frameworks
           - Explore policy-maker role in supporting verification processes and adding layers of trust in credential content and quality
       - title: Using
         subheader: Learners and earners using LERs to discover & access opportunities
         bullets:
           - Support infrastructure development to ensure high-quality solutions are accessible and appropriate to all stakeholders
+          - Leverage consortia, communities, and networks in the public promotion of LERs as a solution to workforce and education challenges
       - title: Adopting
         subheader: Integrating systems & behaviors that accept LERs for opportunities
         bullets:
           - Champion data-driven insights on impact and outcomes and incentivize adoption across the workforce
-          - Track exchange and/or credential transfers
+          - Track credential exchange and transfers leveraging this information to develop or improve policies
     quote-text: Governance is the method that we use to make meaningful signal out of noise. TLN brings together our governing body to propose policies that will govern how learners, issuers and service providers will interact with our network, establishing quality, predictability and plain-language explanations that describe what we’re doing to enable verifiable credentialing.
     quote-description: Kate Giovacchini, Executive Director, Trusted Learner Network and ASU Pocket
   - name: HR Systems
@@ -465,6 +459,8 @@ stakeholders:
         bullets:
         - Encourage the use of community developed open standards to promote integration with employer and education provider systems
         - Consider the interoperability use cases where education and employment data are used (e.g. background check forms, scholarship organizations, state common college applications, FAFSA, state licensure boards, apprenticeships, etc.) 
+    quote-text: “We [Participate] have been issuing open digital credentials for more than a decade, and have recently launched the ability to issue VCs and push them to digital wallets with the DCC’s support.  While earlier versions of digital badges were reported as useful by learners and earners across our partner organizations, it was the launch of VCs and the ability to push into a wallet that seemed to spark excitement and the “Aha” moment of what these credentials could do to unlock present and future learning and work opportunities!”
+    quote-description: Julie Keane, Chief Learning Officer, Participate
   - name: Supporting Systems
     icon: supporting-systems.svg
     icon-alt: An icon of a heart
