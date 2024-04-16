@@ -10,24 +10,77 @@ resources:
       - title: Credentialing Everything&colon; A Primer on Learning and Employment Records and Digital Wallets
         author: Getting Smart
         url: https://www.brookings.edu/articles/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
-      - title: Last Mile Report
-        author: Digital Credentials Consortium
-        url: https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf
-      - title: Going Digital&colon; How LERs shape access to quality education and jobs
+      - title: Going digital&colon; How learning and employment records shape access to quality education and jobs
         author: Brookings Institution
-        url: https://www.brookings.edu/research/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
-      - title: LERs Action Guide
-        author: Credential Engine
-        url: https://credentialengine.org/wp-content/uploads/2022/12/Formatted-External-Review-of-Credential-Engine-Learning-and-Employment-Records-Action-Guide-1-1.pdf
-      - title: Tear the Paper Ceiling
-        author: Opportunity@Work
-        url: https://www.tearthepaperceiling.org/
-      - title: Alabama Talent Playbook
-        author: 
-        url: https://www.talentplaybook.org/
+        url: https://www.brookings.edu/articles/going-digital-how-learning-and-employment-records-shape-access-to-quality-education-and-jobs/
       - title: Interoperable Learning & Employment Records&#x3b; The 7 Principles of LERs and a Roadmap to Implementation
         author: Competency-based Education Network
         url: https://www.c-ben.org/wp-content/uploads/2024/03/CBEN-24-008-Interoperable-Learning-4.pdf
+      - title: The Learn & Work Ecosystem Library
+        author: Credential as You Go
+        url: https://learnworkecosystemlibrary.com/
+      - title: The T3 Network Hub
+        author: The T3 Innovation Network 
+        url: https://www.t3networkhub.org/resources
+  - name: On Employment, Workforce and Governance
+    sites: 
+      - title: Breaking the Paper Ceiling&colon; Skills and Credentials, Not Degrees, Are the Future of Hiring
+        author: SHRM 
+        url: https://www.shrm.org/executive-network/insights/breaking-paper-ceiling-skills-credentials-not-degrees-future-hiring
+      - title: Colorado Talent Pipeline Report
+        author: Colorado Workforce Development Council
+        url: https://cwdc.colorado.gov/resources/colorado-talent-pipeline-report
+      - title: Credentials to Employment&colon; Last Mile Report
+        author: Digital Credentials Consortium
+        url: https://digitalcredentials.mit.edu/docs/Credentials-to-Employment-The-Last-Mile.pdf
+      - title: Jobseekers Want Digital Credentials for Skill-Sharing. Are Employers Ready?
+        author: Jobs for the Future
+        url: https://www.jff.org/jobseekers-want-digital-credentials-for-skill-sharing-are-employers-ready/
+      - title: Learning and Employment Record Use Cases
+        author: National Governors Association
+        url: https://www.nga.org/ler/
+      - title: Skills-Based Practices&colon; A Journey Map for Employers
+        author:  Jobs for the Future
+        url: https://www.jff.org/idea/skills-based-practices-a-journey-map-for-employers/
+      - title: State Opportunity Index&colon; Strengthening the Link Between Education and Opportunity
+        author: Strada Education Foundation
+        url: https://stradaeducation.org/report/state-opportunity-index/
+      - title: The Words of the Workforce Introduction A Field Guide to the Terms and Ideas Shaping the World of Work
+        author: Opportunity@Work, Strada Education Network, National Fund of Workforce Solutions, Talent Rewire, Whiteboard Advisors, WorkingNation, America’s Promise, Cognizant Foundation, Grads of Life, Jobs For the Future, National Skills Coalition, New Profit, and Skillup Coalition
+        url: https://workingnation.com/wp-content/uploads/2021/09/The-Words-of-the-Workforce-field-guide_Sept2021-1.pdf
+      - title: Upskill America
+        author: Aspen Institute
+        url: https://www.aspeninstitute.org/programs/upskill-america/    
+  - name: On Learning and Advocacy
+    sites:
+      - title: 5 Steps to Unlocking a Skills-Based Future for Everyone
+        author: Jobs for the Future
+        url: https://www.jff.org/five-steps-to-unlocking-a-skills-based-future-for-everyone/
+      - title: Building a Skills-Based Talent Marketplace Verifiable Credentials Wallets for Learning and Employment
+        author: Jobs for the Future
+      - title: Employer Perspectives and Insights from C21U's Research
+        author: Georgia Tech Center for 21st Century Universities
+        url: https://c21u.gatech.edu/news/2023/03/future-digital-credentials-employer-perspectives-and-insights-c21us-research
+      - title: Inclusive Design Principles for Learning and Employment Records&colon; Co-Designing for Equity
+        author: Digital Promise
+        url: https://digitalpromise.dspacedirect.org/items/82a51030-0ea6-4fac-a596-4e8116737a4a
+      - title: Incremental Credentialing in Graduate Education
+        author: Credential As You Go
+        url: https://credentialasyougo.org/playbooks/graduate-education/graduateeducation-purpose/
+      - title: Tear the Paper Ceiling
+        author: Opportunity@Work
+        url: https://www.tearthepaperceiling.org/
+  - name: On Technology, Data Standards, and Solutions
+    sites:
+      - title: Credential Engine Learning and Employment Records Action Guide
+        author: Credential Engine
+        url: https://credentialengine.org/wp-content/uploads/2022/12/Formatted-External-Review-of-Credential-Engine-Learning-and-Employment-Records-Action-Guide-1-1.pdf    
       - title: Making Sense of the Key Data Standards for Verifiable LERs
         author: Digital Credentials Consortium
         url: https://digitalcredentials.mit.edu/docs/DCC-Making-Sense-of-Key-Data-Standards-for-Verifiable-LERs.pdf
+      - title: Skills-Based Hiring and Advancement&colon; LERs, Resumes, and Related Data Standards
+        author: The T3 Innovation Network
+        url: https://www.t3networkhub.org/resources/skills-based-hiring-and-advancement-lers-resumes-and-related-data-standards
+      - title: What’s the Key to Building Learning and Employment Records? Interoperability
+        author: Jobs for the Future
+        url: https://www.jff.org/whats-the-key-to-building-learning-and-employment-records-interoperability/
