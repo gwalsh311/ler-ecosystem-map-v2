@@ -89,7 +89,7 @@ title: LER Ecosystem Map - About
 	<div class="row py-1">
 		<div class="col">
 			<div class="body-text-medium">
-				<p>This content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. </p>
+				<p>The content on this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. </p>
 				<p>Please submit feedback <a href="https://forms.gle/j4mMrFCtnFksqgDg8" target="_blank">here</a> and/or contribute an issue and content <a href="https://github.com/digitalcredentials/ler-ecosystem-map-v2" target="_blank">here</a>.</p> 
 			</div>		
 		</div>	
