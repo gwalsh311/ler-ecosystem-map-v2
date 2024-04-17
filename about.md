@@ -45,7 +45,7 @@ title: LER Ecosystem Map - About
 				<a href="https://www.shrm.org/front-door" target="_blank"><img src="./images/LOGO-SHRM.svg" loading="lazy" alt="SHRM Foundation Logo"/></a>
 			</div>
 			<div class="col-sm-3 mx-auto">
-				<a href="https://credentialengine.org/" target="_blank"><img src="./images/LOGO-credentialEngine.png" loading="lazy" alt="Credential Engine Logo" /></a>
+				<a href="https://credentialengine.org/" target="_blank"><img src="./images/LOGO-CredentialEngine.png" loading="lazy" alt="Credential Engine Logo" /></a>
 			</div>
 			<div class="col-sm-3 mx-auto">
 				<a href="https://www.t3networkhub.org/" target="_blank"><img src="./images/LOGO-T3.png" loading="lazy" alt="T3 Innovation Network Logo" /></a>
