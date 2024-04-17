@@ -2662,16 +2662,17 @@ textarea.w-input, textarea.w-select {
 }
 
 .contributors {
-  grid-row-gap: 5vh;
+  width: 75%;
+/*  grid-row-gap: 5vh;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: center;*/
+  /*align-items: center;
   margin-top: 5vh;
-  margin-bottom: 10vh;
-  display: flex;
+  margin-bottom: 10vh;*/
+  /*display: flex;*/
 }
 
-.contributors-row {
+/*.contributors-row {
   grid-column-gap: 3vh;
   grid-row-gap: 3vh;
   grid-template-rows: auto auto auto auto;
@@ -2681,7 +2682,7 @@ textarea.w-input, textarea.w-select {
   align-items: center;
   justify-items: center;
   display: grid;
-}
+}*/
 
 .section-matter {
   width: 100vw;
@@ -3572,7 +3573,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .image-4 {
-  padding-top: 3vh;
+  width: 100%;
 }
 
 .walmart-logo {
@@ -3927,6 +3928,16 @@ textarea.w-input, textarea.w-select {
     font-family: proxima-nova, sans-serif;
     font-size: 0.75rem;
     line-height: 150%;
+  }
+
+  .contributors {
+    width: 100%;
+  }
+
+  .contributors .col-sm-3, .contributors .col-sm-12 {
+    height: auto;
+    padding: 1rem;
+    text-align: center;
   }
 }
 
