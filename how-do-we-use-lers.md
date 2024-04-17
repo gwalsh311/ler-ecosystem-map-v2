@@ -42,7 +42,7 @@
 <div class="col-sm-10">
 <h3>Learner obtains credential</h3>
 <div class="body-text-medium">
-<p>Stewart receives their credential in a digitally signed format. She is able to import this credential and store it in a digital wallet application. </p>
+<p>Stewart receives their credential in a digitally signed format. They are able to import this credential and store it in a digital wallet application. </p>
 </div>
 </div>
 </div>
