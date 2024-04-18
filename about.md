@@ -82,6 +82,13 @@ title: LER Ecosystem Map - About
 	<div class="row py-3 mt-3">
 		<div class="col">
 			<div class="body-text-medium">
+				<p>Thank you to <a href="https://weareopen.coop/" taget="_blank">We Are Open</a> for their support of version 2 of the site.</p> 
+			</div>		
+		</div>	
+	</div>
+	<div class="row py-2 mb-1">
+		<div class="col">
+			<div class="body-text-medium">
 				<p>Thank you to <a href="https://nationswell.com/" target="_blank">NationSwell</a> and <a href="https://www.learningeconomy.io/" target="_blank">Learning Economy Foundation</a> for their support of version 1 of the site.</p> 
 			</div>		
 		</div>	
