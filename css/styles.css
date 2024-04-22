@@ -247,9 +247,12 @@ body {
   color: #333;
   background-color: #fff;
   margin: 0;
-  font-family: Arial, sans-serif;
+ /* font-family: Arial, sans-serif;
   font-size: 14px;
-  line-height: 20px;
+  line-height: 20px;*/
+  font-family: proxima-nova, sans-serif;
+  font-size: 1.125rem;
+  line-height: 160%;
 }
 
 img {
