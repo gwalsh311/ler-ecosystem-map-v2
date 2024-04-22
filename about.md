@@ -66,16 +66,16 @@ title: LER Ecosystem Map - About
 			<div class="col-sm-3 mx-auto">
 				<a href="https://www.aspeninstitute.org/" target="_blank"><img src="./images/LOGO-ASPENUPSKILL .jpeg" loading="lazy" alt="Aspen Institute Logo"/></a>
 			</div>
-			<div class="col-sm-3 mx-auto">
-				<a href="https://www.uschamber.com/" target="_blank"><img src="./images/LOGO-USCHAMBER.webp" loading="lazy" alt="US Chamber of Commerce Foundation Logo"/></a>
+			<div class="col-sm-6 px-5">
+				<a href="https://www.uschamber.com/" target="_blank"><img src="./images/USCHAMBERFOUNDATION.svg" loading="lazy" alt="US Chamber of Commerce Foundation Logo"/></a>
 			</div>
 			<div class="col-sm-3 mx-auto">
-				<a href="https://tln.asu.edu/" target="_blank"><img src="./images/LOGO-TLN.webp" loading="lazy" alt="Trusted Learner Network Logo"/></a>
+				<a href="https://digitalpromise.org/" target="_blank"><img src="./images/LOGO-DIGITALPROMISE.svg" loading="lazy" alt="Digital Promise Logo"/></a>
 			</div>
 		</div>
-		<div class="row p-4">
+		<div class="row py-2">
 			<div class="col-sm-12 mx-auto">
-				<a href="https://digitalpromise.org/" target="_blank"><img src="./images/LOGO-DIGITALPROMISE.svg" loading="lazy" alt="Digital Promise Logo"/></a>
+				<a href="https://tln.asu.edu/" target="_blank"><img src="./images/LOGO-TLN.webp" loading="lazy" alt="Trusted Learner Network Logo"/></a>
 			</div>
 		</div>
 	</div>
