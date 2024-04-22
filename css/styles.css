@@ -3871,6 +3871,12 @@ textarea.w-input, textarea.w-select {
 
 @media screen and (max-width: 479px) {
 
+  h1 {
+    margin-top: 10px;
+    font-size: 32px;
+    line-height: 42px;
+  }
+
   .stakeholder-map-mobile {
     display: block;
   }
@@ -3943,12 +3949,3 @@ textarea.w-input, textarea.w-select {
     text-align: center;
   }
 }
-
-/*#w-node-_8d2f2931-98ad-7183-e29c-0bff32e731b1-2587fa3f {
-  align-self: center;
-  justify-self: center;
-}
-
-#w-node-ea696771-6417-d691-526a-fe9a17aa0334-2587fa3f {
-  grid-area: 4 / 2 / 5 / 3;
-}*/
