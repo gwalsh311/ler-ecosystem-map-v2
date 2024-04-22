@@ -4,6 +4,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ base }}/images/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ base }}/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ base }}/images/favicon-16x16.png">
     <title>{{ page.title }}</title>
 
     <!-- Typescript -->
@@ -15,15 +18,12 @@
     <!-- Local Stylesheet -->
     <link href="{{ base }}/css/styles.css" rel="stylesheet">
 
-    <!-- Favicon  -->
-  <!--  <link rel="icon" href="images/cropped-fav-dc-b-32x32.png" sizes="32x32" >
-    <link rel="icon" href="images/cropped-fav-dc-b-192x192.png" sizes="192x192" >--> 
   </head>
   <body>
     <!-- Navbar -->
     {% include navigation.html %}
 
-    <div class="container-fluid mx-auto" style="width: 95%;">
+    <div class="container-fluid mx-auto" style="width: 94%;">
 
       {{ content }}
 
