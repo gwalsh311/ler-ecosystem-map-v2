@@ -4,16 +4,13 @@ pages:
   - page: About
     url: /about
   - page: Stakeholders #dropdown items pulled from stakeholders-list.yml
-  - page: LERs Explained
-    url: /lers-explained
+  - page: Guidance
     subpages:
-      - page: What Are LERs?
-        url: /what-are-lers
-      - page: How Do We Use LERs?
-        url: /how-do-we-use-lers
+      - page: LERs Explained
+        url: /lers-explained
+      - page: Technical Guidance
+        url: /technical-guidance
       - page: Resources
         url: /resources
-      - page: Guidance
-        url: /ler-guidance
       - page: Glossary
         url: /glossary
