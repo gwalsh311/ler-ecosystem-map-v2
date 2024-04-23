@@ -4,7 +4,9 @@ title: LER Ecosystem Map - LERs Explained
 ---
 <div class="container-fluid">
     <div class="row mx-4 py-3">
-        <h1>What are LERs?</h1>
+        <div class="col">
+            <h1>What are LERs?</h1>
+        </div>
     </div>
     <div class="row mx-4">
         <div class="col">
