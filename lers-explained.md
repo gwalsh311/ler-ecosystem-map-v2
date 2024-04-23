@@ -39,7 +39,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
          <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step01-sm.png" loading="lazy" alt="Step 1 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step01-sm.png" loading="lazy" alt="Step 1 icon"/>
         </div>
         <div class="col-sm-10">
             <h4>Learner makes an achievement</h4>
@@ -48,7 +48,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
         <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step02-sm.png" loading="lazy" alt="Step 2 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step02-sm.png" loading="lazy" alt="Step 2 icon"/>
         </div>
         <div class="col-sm-10">
             <h3>Issuer issues credential</h3>
@@ -57,7 +57,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
         <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step03-sm.png" loading="lazy" alt="Step 3 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step03-sm.png" loading="lazy" alt="Step 3 icon"/>
         </div>
         <div class="col-sm-10">
             <h3>Learner obtains credential</h3>
@@ -66,7 +66,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
         <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step04-sm.png" loading="lazy" alt="Step 4 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step04-sm.png" loading="lazy" alt="Step 4 icon"/>
         </div>
         <div class="col-sm-10">
             <h3>Learner shares a credential</h3>
@@ -75,7 +75,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
         <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step05-sm.png" loading="lazy" alt="Step 5 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step05-sm.png" loading="lazy" alt="Step 5 icon"/>
         </div>
         <div class="col-sm-10">
             <h3>Consumer verifies a credential</h3>
@@ -84,7 +84,7 @@ title: LER Ecosystem Map - LERs Explained
     </div>
     <div class="row mx-4 py-3">
         <div class="col-sm-2 text-center">
-            <img class="w-75" src="./images/LERs-explained-step06-sm.png" loading="lazy" alt="Step 6 icon"/>
+            <img class="w-50" src="./images/LERs-explained-step06-sm.png" loading="lazy" alt="Step 6 icon"/>
          </div>
          <div class="col-sm-10">
             <h3> The learner continues to add to their LER throughout their lifetime</h3>
