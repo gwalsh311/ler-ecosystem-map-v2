@@ -36,7 +36,7 @@ title: LER Ecosystem Map - LER Guidance
 				</li>
 			</ul>
 			<p>It’s often asked if learning and employment records issued using older digital credentials standards, as PDFS, or other formats besides Verifiable Credentials are considered to be “LERs”. The answer is yes, but they will be inherently less usable and applicable on the web when Verifiable Credentials are expected by web sites and applications.</p>
-			<p>For as long as Open Badges 2.0 and earlier are hosted by their issuing web platforms, they should continue to be available to share online but they will not be verifiable in the same cryptographic manner because they won’t be digitally signed. PDFs will likely continue to have their place in the world but even digitally signed PDFs are not as functionally usable as the machine readable data in Verifiable Credentials. The best course of action is to seek software and vendors that are using or willing to use the W3C Verifiable Credentials standard for LERs</p>
+			<p>For as long as Open Badges 2.0 and earlier are hosted by their issuing web platforms, they should continue to be available to share online but they will not be verifiable in the same cryptographic manner because they won’t be digitally signed. PDFs will likely continue to have their place in the world but even digitally signed PDFs are not as functionally usable as the machine readable data in Verifiable Credentials. The best course of action is to seek software and vendors that are using or willing to use the W3C Verifiable Credentials standard for LERs.</p>
 		</div>
 	</div>
     <div class="row">
