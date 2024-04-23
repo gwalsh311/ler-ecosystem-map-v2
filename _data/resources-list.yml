@@ -81,6 +81,9 @@ resources:
       - title: Skills-Based Hiring and Advancement&colon; LERs, Resumes, and Related Data Standards
         author: The T3 Innovation Network
         url: https://www.t3networkhub.org/resources/skills-based-hiring-and-advancement-lers-resumes-and-related-data-standards
+      - title: What is a Verifiable Credential?
+        author: World Wide Web Consortium
+        url: https://www.w3.org/TR/vc-data-model/#what-is-a-verifiable-credential
       - title: What’s the Key to Building Learning and Employment Records? Interoperability
         author: Jobs for the Future
         url: https://www.jff.org/whats-the-key-to-building-learning-and-employment-records-interoperability/

@@ -35,7 +35,8 @@ title: LER Ecosystem Map - LER Guidance
 					</ul>
 				</li>
 			</ul>
-			<p>It’s often asked if learning and employment records issued using older digital credentials standards, as PDFS, or other formats besides Verifiable Credentials are considered to be “LERs”. The answer is yes, but they will be inherently less usable on the web when Verifiable Credentials are expected. For as long as they are hosted by their issuing web platforms, Open Badges 2.0 and earlier should be available to share online but they will not be verifiable in the same cryptographic manner because they won’t be digitally signed. PDFs will likely continue to have their place in the world but even digitally signed PDFs are not as functionally usable as the machine readable data in Verifiable Credentials.</p>
+			<p>It’s often asked if learning and employment records issued using older digital credentials standards, as PDFS, or other formats besides Verifiable Credentials are considered to be “LERs”. The answer is yes, but they will be inherently less usable and applicable on the web when Verifiable Credentials are expected by web sites and applications.</p>
+			<p>For as long as Open Badges 2.0 and earlier are hosted by their issuing web platforms, they should continue to be available to share online but they will not be verifiable in the same cryptographic manner because they won’t be digitally signed. PDFs will likely continue to have their place in the world but even digitally signed PDFs are not as functionally usable as the machine readable data in Verifiable Credentials. The best course of action is to seek software and vendors that are using or willing to use the W3C Verifiable Credentials standard for LERs.</p>
 		</div>
 	</div>
     <div class="row">
@@ -45,7 +46,7 @@ title: LER Ecosystem Map - LER Guidance
   	</div>
   	<div class="row mx-4">
   		<div>
-			<p><a href ="https://www.c-ben.org/wp-content/uploads/2023/03/CBEN-23-003-Interoperable-Learning-WALMART-V2.pdf" target="_blank">The Competency Based Education Network Interoperability Principles </a> offer guidance and key design elements for optimal LER systems. Recognition and adherence to these principles is encouraged for technology vendors and other decision makers within the ecosystem.</p>
+			<p>The Competency Based Education Network <a href ="https://www.c-ben.org/wp-content/uploads/2023/03/CBEN-23-003-Interoperable-Learning-WALMART-V2.pdf" target="_blank">Interoperability Principles</a> offer guidance and key design elements for optimal LER systems. Recognition and adherence to these principles is encouraged for technology vendors and other decision makers within the ecosystem.</p>
 		<div>
 			<p><strong>OPEN STANDARDS</strong></p>
 			<p>Data included in LERs are formatted using a standard structure, allowing for easy exchange between individuals, education, and employment.</p>
