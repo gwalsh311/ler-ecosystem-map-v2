@@ -18,7 +18,7 @@
               <a class="nav-link  dropdown-toggle" href="{{ site.baseurl }}{{ item.url }}" data-bs-toggle="dropdown">{{ item.page }}</a>
               <ul class="dropdown-menu">
                 {% for entry in site.data.stakeholders-list.stakeholders %}
-                  <li><a class="dropdown-item" href="{{ site.baseurl }}/stakeholder/{{ entry.url }}"><img src="{{ base }}/images/{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.name}}</a></li>
+                  <li><a class="dropdown-item" href="/stakeholder/{{ entry.url }}"><img src="{{ base }}/images/{{ entry.icon }}" loading="lazy" alt="{{ entry.icon-alt }}" class="w-25"/>{{ entry.name}}</a></li>
                 {% endfor %}
               </ul>
             </li>
