@@ -11,19 +11,19 @@ title: LER Ecosystem Map - LER Guidance
  	</div>
    	<div class="row mx-4">
     	<div class="col">
-    		<p>LERs are digital credentials representing learning and employment related achievements. LERs may be both a single credential and a collection of credentials. In a lifetime, one may earn many LERs.</p>
-    		<p>For LERs to be effective at scale, they must be able to function across a variety of systems online where individuals may seek to use their employment and education data. The recommended path to LER interoperability across the web is to leverage the web standard, <a href="https://www.w3.org/TR/vc-data-model/" target="_blank">W3C Verifiable Credentials</a>. Verifiable Credentials provides a container that may be used for LER achievement data and the instructions for how LERs could be digitally signed. Verifiers of LERs use software that checks the integrity of the digital signature and that the credential hasn’t been tampered with since it was issued. They may check additional data points such as whether the credential has been revoked or expired, if the issuer identity can be trusted, and if the content in the LER is suitable for the context in which it is being used.</p>
-    		<p>As the Digital Credentials Consortium describes in their white paper, <a href="https://digitalcredentials.mit.edu/docs/DCC-Making-Sense-of-Key-Data-Standards-for-Verifiable-LERs.pdf" target="_blank">Making Sense of the Key Data Standards for Verifiable LERs</a>, the 1EdTech standards, <a href="https://www.imsglobal.org/spec/ob/v3p0" target="_blank">Open Badges 3.0</a> and <a href="https://www.imsglobal.org/spec/clr/v2p0" target="_blank">Comprehensive Learner 2.0 (CLR v2)</a>, function like W3C Verifiable Credentials. As with previous versions of these standards, the latest versions can accommodate rich descriptions of learning and employment. Unlike previous versions, Open Badges 3.0 and Comprehensive Learner Record 2.0 can be digitally signed, making them suitable for the issuance of formal documents such as degrees and transcripts.</p>
+    		<p>LERs are digital credentials representing learning and employment related achievements. LERs could be a single credential or a collection of credentials. Across a lifetime, one may earn many LERs.</p>
+    		<p>For LERs to be effective at scale, they must be able to function across a variety of technical and human systems where individuals may seek to use their employment and education data. The recommended path towards LER interoperability across the web is to leverage the  <a href="https://www.w3.org/TR/vc-data-model/" target="_blank">W3C Verifiable Credentials</a> web standard. Verifiable Credentials provides a container that may be used for LER achievement data and instructions for how LERs can be digitally signed. Verifiers of LERs use software that checks the integrity of the digital signature and evidence that the credential hasn’t been tampered with since it was issued. They may check additional data points such as whether the credential has been revoked or expired, if the issuer identity can be trusted, or if the content in the LER is suitable for the context in which it is being used.</p>
+    		<p>As described in the the Digital Credentials Consortium white paper, <a href="https://digitalcredentials.mit.edu/docs/DCC-Making-Sense-of-Key-Data-Standards-for-Verifiable-LERs.pdf" target="_blank">Making Sense of the Key Data Standards for Verifiable LERs</a>, the 1EdTech standards, <a href="https://www.imsglobal.org/spec/ob/v3p0" target="_blank">Open Badges 3.0</a> and <a href="https://www.imsglobal.org/spec/clr/v2p0" target="_blank">Comprehensive Learner 2.0 (CLR v2)</a>, function like W3C Verifiable Credentials. As with previous versions of these standards, the latest versions can accommodate rich descriptions of learning and employment. Unlike previous versions, Open Badges 3.0 and Comprehensive Learner Record 2.0 can be digitally signed, making them suitable for the issuance of formal documents such as degrees and transcripts.</p>
     		<p>Advantages of Verifiable Credentials:</p>
     		<ul role="list">
 				<li>Issued on demand</li>
 				<li>Digitally signed by issuer</li>
-				<li>Can’t be changed once signed</li>
+				<li>Cannot be changed once signed</li>
 				<li>Identity provided by L/Earner
 					<ul role="list">
 						<li>Could be a decentralized id</li>
-						<li>Could be other identity agreed upon with issuer</li>
-						<li>Doesn’t need to be an email address which could be changed or lost</li>
+						<li>Could be another identity agreed upon with issuer</li>
+						<li>Does not need to be an email address (which could be changed or lost)</li>
 					</ul>
 				</li>
 				<li>Stored in web or mobile wallets that l/earners control</li>
@@ -35,7 +35,7 @@ title: LER Ecosystem Map - LER Guidance
 					</ul>
 				</li>
 			</ul>
-			<p>It’s often asked if learning and employment records issued using older digital credentials standards, as PDFS, or other formats besides Verifiable Credentials are considered to be “LERs”. The answer is yes, but they will be inherently less usable and applicable on the web when Verifiable Credentials are expected by web sites and applications.</p>
+			<p>It’s often asked if learning and employment records issued using older digital credentials standards, as PDFs, or in other formats besides Verifiable Credentials are considered to be “LERs”. The answer is yes, but they will be inherently less usable and applicable on the web when Verifiable Credentials are expected by web sites and applications.</p>
 			<p>For as long as Open Badges 2.0 and earlier are hosted by their issuing web platforms, they should continue to be available to share online but they will not be verifiable in the same cryptographic manner because they won’t be digitally signed. PDFs will likely continue to have their place in the world but even digitally signed PDFs are not as functionally usable as the machine readable data in Verifiable Credentials. The best course of action is to seek software and vendors that are using or willing to use the W3C Verifiable Credentials standard for LERs.</p>
 		</div>
 	</div>
